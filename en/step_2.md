@@ -6,13 +6,19 @@ This project uses a special experimental version of Scratch called 'Scratch Lab'
 
 + Open [Scratch Lab](https://lab.scratch.mit.edu/){:target="_blank"}. 
 
---- /task ---
++ Click on 'Face Sensing'
 
+![Scratch lab website with arrow pointing to Face Sensing](images/facial-recognition.png)
+
++ Click on the 'Try it out' button
+
+--- /task ---
 
 --- task ---
 
-+ Click on 'Facial recognition'
++ If you are asked for permission to use your webcam, click on 'Allow on every visit'
 
-![Image of Scratch lab website with arrow pointing to facial recognition](images/facial-recognition.png)
+![Popup asking for permission to use webcam, with arrow pointing to Allow on every visit](images/allow-webcam.png)
 
 --- /task ---
+

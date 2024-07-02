@@ -1,7 +1,38 @@
-## What next?
+## Silly glasses
 
-If you are following the [PathwayName](https://projects.raspberrypi.org/en/raspberrypi/pathway-name) pathway, you can move on to the [ProjectName](https://projects.raspberrypi.org/en/projects/project-name) project. In this project, you will make a (add description here).
+The face sensing blocks use a machine learning model to recognise where different parts of your face are on the webcam image. 
 
-![ProjectName project](images/projectname-project.png)
+Let's try it out!
 
-If you want to have more fun exploring Scratch, then you could try out any of [these projects](https://projects.raspberrypi.org/en/projects?software%5B%5D=scratch&curriculum%5B%5D=%201).
+--- task ---
+
++ Delete the cat sprite and then click 'Choose a sprite' and choose the glasses.
+
+![The sprite chooser has been clicked and 'Choose a sprite' is selected](images/choose-sprite.png)
+
+--- /task ---
+
+
+--- task ---
+
++ Click on the 'Costumes' tab and choose your pair of glasses. 
+
+![The costumes tab has an arrow pointing to it and there are 4 different pairs of glasses to choose from](images/costumes.png)
+
+--- /task ---
+
+--- task ---
+
++ Click on the 'Code' tab and add this code to your glasses sprite
+
+![When flag clicked, set size to face size, then forever go to between eyes](images/glasses-code.png)
+
+--- /task ---
+
+--- task ---
+
++ Click the green flag to see your new glasses. Move your head and they will stay in the right place on your face!
+
+![A woman on a webcam with the pink heart glasses sprite in front of her eyes](images/glasses-result.png)
+
+--- /task ---

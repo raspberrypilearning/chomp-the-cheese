@@ -22,3 +22,6 @@ This project uses a special experimental version of Scratch called 'Scratch Lab'
 
 --- /task ---
 
+You should now see Scratch, with special 'Face sensing' blocks.
+
+![The Scratch software with green 'Face sensing' blocks](images/scratch-special.png)

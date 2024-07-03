@@ -1,6 +1,6 @@
 ## Move the cheese 
 
-Add a new sprite which will move randomly around the screen. When the sprite touches your mouth, it will get eaten! 
+Make your cheese puffs move randomly around the screen. 
 
 --- task ---
 
@@ -15,7 +15,7 @@ Add a new sprite which will move randomly around the screen. When the sprite tou
 + Add some code to make the sprite move to random positions around the screen
 
 ```blocks3
-+when green flag clicked
+when green flag clicked
 show
 forever
 glide(1) secs to (random position v)

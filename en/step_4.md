@@ -1,25 +1,29 @@
-## Move the cheese 
+## Chomp the cheese 
 
-Make your cheese puffs move randomly around the screen. 
+When the cheese puffs touch your mouth, they get chomped! 
 
 --- task ---
 
-+ Add a new sprite - you can choose an existing one, upload an image or even paint your own! We chose the cheese puffs.
++ In the code for the cheesy puffs sprite, add a block from the 'Face Sensing' category which detects when the sprite touches a mouth. 
 
-![The cheese puffs sprite is selected](images/cheese-puffs.png)
+![A green face sensing block for 'when this sprite touches mouth'](images/touches-mouth.png)
 
 --- /task ---
 
---- task --- 
+--- task ---
 
-+ Add some code to make the sprite move to random positions around the screen
++ Add some code blocks underneath the face sensing block to make the cheesy puffs disappear when they touch your mouth.
 
 ```blocks3
-when flag clicked
+hide
+wait (1) seconds
 show
-forever
-glide (1) secs to (random position v)
 ```
+--- /task ---
+
+--- task ---
+
++ Click the green flag and have fun trying to catch the cheesy puffs with your mouth!
 
 --- /task ---
 

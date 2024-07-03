@@ -1,38 +1,33 @@
-## Silly glasses
+## Move the cheese 
 
-The face sensing blocks use a machine learning model to recognise where different parts of your face are on the webcam image. 
-
-Let's try it out!
+Make your cheese puffs move randomly around the screen. 
 
 --- task ---
 
-+ Delete the cat sprite and then click 'Choose a sprite' and choose the glasses.
++ Delete the cat sprite
 
-![The sprite chooser has been clicked and 'Choose a sprite' is selected](images/choose-sprite.png)
++ Add a new sprite - you can choose an existing one, upload an image or even paint your own! We chose the cheesy puffs.
+
+![Choose a new sprite](images/choose-sprite.png)
 
 --- /task ---
 
+--- task --- 
 
---- task ---
++ Add some code to make the sprite move to random positions around the screen. 
 
-+ Click on the 'Costumes' tab and choose your pair of glasses. 
-
-![The costumes tab has an arrow pointing to it and there are 4 different pairs of glasses to choose from](images/costumes.png)
-
---- /task ---
-
---- task ---
-
-+ Click on the 'Code' tab and add this code to your glasses sprite
-
-![When flag clicked, set size to face size, then forever go to between eyes](images/glasses-code.png)
+```blocks3
+when flag clicked
+show
+forever
+glide (1) secs to (random position v)
+```
 
 --- /task ---
 
 --- task ---
 
-+ Click the green flag to see your new glasses. Move your head and they will stay in the right place on your face!
-
-![A woman on a webcam with the pink heart glasses sprite in front of her eyes](images/glasses-result.png)
++ Click the green flag and check that your sprite moves randomly around the screen to different places.
 
 --- /task ---
+

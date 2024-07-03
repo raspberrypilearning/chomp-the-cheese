@@ -1,4 +1,4 @@
-## Move the cheese puffs
+## Move the cheese 
 
 Add a new sprite which will move randomly around the screen. When the sprite touches your mouth, it will get eaten! 
 

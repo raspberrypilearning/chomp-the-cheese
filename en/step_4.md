@@ -15,7 +15,7 @@ Make your cheese puffs move randomly around the screen.
 + Add some code to make the sprite move to random positions around the screen
 
 ```blocks3
-when green flag clicked
++when flag clicked
 show
 
 ```

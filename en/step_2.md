@@ -10,7 +10,11 @@ This project uses a special experimental version of Scratch called 'Scratch Lab'
 
 ![Scratch lab website with arrow pointing to Face Sensing](images/facial-recognition.png)
 
-+ Click on the 'Try it out' button
+--- /task ---
+
+--- task ---
+
++ Click on the 'Try it out' button.
 
 --- /task ---
 

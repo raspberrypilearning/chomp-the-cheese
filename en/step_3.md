@@ -6,6 +6,10 @@ Make your cheese puffs move randomly around the screen.
 
 + Delete the cat sprite
 
+--- /task ---
+
+--- task ---
+
 + Add a new sprite - you can choose an existing one, upload an image or even paint your own! We chose the cheesy puffs.
 
 ![Choose a new sprite](images/choose-sprite.png)
@@ -27,7 +31,7 @@ glide (1) secs to (random position v)
 
 --- task ---
 
-+ Click the green flag and check that your sprite moves randomly around the screen to different places.
++ **Test:** Click the green flag and check that your sprite moves randomly around the screen to different places.
 
 --- /task ---
 

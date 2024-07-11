@@ -8,7 +8,13 @@ last_tested: "2024-07-02"
 steps:
   - title: What you will make
   - title: Set up the project
+    completion:
+      - engaged
   - title: Move the cheese
   - title: Chomp the cheese
+    completion:
+      - internal
   - title: Challenge
+    completion:
+      - external
   - title: What next?

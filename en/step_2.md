@@ -1,7 +1,7 @@
 ## Set up the project
 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ny57WfEWhdg?si=-VnKlm2SxVS_WQjh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ny57WfEWhdg?si=-VnKlm2SxVS_WQjh&rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 
 This project uses a special experimental version of Scratch called 'Scratch Lab' which has some extra features.

@@ -1,5 +1,10 @@
 ## Move the cheese 
 
+<video width="640" height="480" controls>
+  <source src="https://youtu.be/BKgBeqxTrM8" type="video/mp4">
+Your browser does not support the video tag.
+</video>
+
 Make your cheese puffs move randomly around the screen. 
 
 --- task ---

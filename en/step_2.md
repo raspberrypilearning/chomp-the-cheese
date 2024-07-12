@@ -1,5 +1,12 @@
 ## Set up the project
 
+
+<video width="640" height="480" controls>
+  <source src="https://youtu.be/ny57WfEWhdg" type="video/mp4">
+Your browser does not support the video tag.
+</video>
+
+
 This project uses a special experimental version of Scratch called 'Scratch Lab' which has some extra features.
 
 --- task ---

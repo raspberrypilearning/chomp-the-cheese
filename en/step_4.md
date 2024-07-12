@@ -1,5 +1,10 @@
 ## Chomp the cheese 
 
+<video width="640" height="480" controls>
+  <source src="https://youtu.be/ZZFSzC7ozRM" type="video/mp4">
+Your browser does not support the video tag.
+</video>
+
 When the cheese puffs touch your mouth, they get chomped! 
 
 --- task ---

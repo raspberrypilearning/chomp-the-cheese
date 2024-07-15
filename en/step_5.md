@@ -3,7 +3,7 @@
 
 
 --- task ---
-+ Play a sound when the cheese puffs touch your mouth.
++ Play a sound when the cheesy puffs touch your mouth.
 --- /task ---
 
 --- task ---

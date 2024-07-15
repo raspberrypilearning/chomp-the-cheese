@@ -24,7 +24,6 @@ Make your cheese puffs move randomly around the screen.
 
 ```blocks3
 when flag clicked
-show
 forever
 glide (1) secs to (random position v)
 ```

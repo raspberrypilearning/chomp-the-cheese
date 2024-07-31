@@ -3,15 +3,15 @@
 
 
 --- task ---
-+ Play a sound when the cheesy puffs touch your mouth.
+Play a sound when the cheesy puffs touch the player's mouth.
 --- /task ---
 
 --- task ---
-+ Add a variable and keep track of how many cheesy puffs you have eaten.
+Add a variable to keep track of how many cheesy puffs the player has eaten.
 --- /task ---
 
 --- task ---
-+ Add another sprite which the player should avoid eating!
+Add another sprite that the player should avoid eating!
 --- /task ---
 
 --- /challenge ---

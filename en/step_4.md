@@ -7,19 +7,19 @@
   </div>
 </html>
 
-When the cheese puffs touch your mouth, they get chomped! 
+Make the cheesy puffs get chomped when they touch the player's mouth! 
 
 --- task ---
 
-+ In the code for the cheesy puffs sprite, add a block from the 'Face Sensing' category which detects when the sprite touches a mouth. 
+In the code for the **Cheesy Puffs** sprite, add a block from the `Face Sensing`{:class="block3extensions"} blocks menu to detect when the sprite touches a mouth:
 
-![A green face sensing block for 'when this sprite touches mouth'](images/touches-mouth.png)
+![A green 'when this sprite touches a mouth' block from the 'Face Sensing' blocks menu.](images/touches-mouth.png)
 
 --- /task ---
 
 --- task ---
 
-+ Add some code blocks underneath the face sensing block to make the cheesy puffs disappear when they touch your mouth.
+Add some code blocks under the `Face Sensing`{:class="block3extensions"} block to make the cheesy puffs disappear when they touch a mouth:
 
 ```blocks3
 hide
@@ -30,7 +30,7 @@ show
 
 --- task ---
 
-+ Click the green flag and have fun trying to catch the cheesy puffs with your mouth!
+Click on the green flag and have fun trying to catch the cheesy puffs with your mouth!
 
 --- /task ---
 

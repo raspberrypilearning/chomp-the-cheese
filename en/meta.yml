@@ -1,6 +1,6 @@
 title: Chomp the cheese
 hero_image: images/banner.png
-description: Make a facial recognition game where you have to eat falling cheese
+description: Make a facial recognition game where you have to eat cheesy puffs that are moving around you
 version: 1
 listed: false
 copyedit: false
@@ -17,4 +17,4 @@ steps:
   - title: Challenge
     completion:
       - external
-  - title: What can I do now?
+  - title: What next?

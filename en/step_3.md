@@ -6,25 +6,25 @@
   </div>
 </html>
 
-Make your cheese puffs move randomly around the screen. 
+Make your cheesy puffs move randomly around the screen. 
 
 --- task ---
 
-+ Delete the cat sprite
+Delete the **cat** sprite.
 
 --- /task ---
 
 --- task ---
 
-+ Add a new sprite - you can choose an existing one, upload an image or even paint your own! We chose the cheesy puffs.
+Add a new sprite. You can choose an existing sprite, upload an image, or even paint your own sprite! We chose the **Cheesy Puffs** sprite.
 
-![Choose a new sprite](images/choose-sprite.png)
+![The 'Choose a Sprite' menu, with the 'Choose a Sprite' option highlighted.](images/choose-sprite.png)
 
 --- /task ---
 
 --- task --- 
 
-+ Add some code to make the sprite move to random positions around the screen. 
+Add some code to make the sprite move to random positions around the screen: 
 
 ```blocks3
 when flag clicked
@@ -36,7 +36,7 @@ glide (1) secs to (random position v)
 
 --- task ---
 
-+ **Test:** Click the green flag and check that your sprite moves randomly around the screen to different places.
+**Test:** Click on the green flag and check that your sprite moves randomly around the screen to different places.
 
 --- /task ---
 

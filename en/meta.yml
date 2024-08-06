@@ -9,12 +9,12 @@ steps:
   - title: What you will make
   - title: Set up the project
     completion:
-      - engaged
+    - engaged
   - title: Move the cheese
   - title: Chomp the cheese
     completion:
-      - internal
+    - internal
   - title: Challenge
-    completion:
-      - external
   - title: What can you do now?
+    completion:
+    - external

@@ -1,7 +1,6 @@
 ## Challenge
 --- challenge ---
 
-
 --- task ---
 Play a sound when the cheesy puffs touch the player's mouth.
 --- /task ---

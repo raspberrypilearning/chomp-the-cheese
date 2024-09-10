@@ -1,9 +1,3 @@
-## What next?
+## What can you do now?
 
-You can find lots of other artificial intelligence (AI) and machine learning projects in the [xxx](https://projects.raspberrypi.org/en/raspberrypi/pathway-name) collection.
-
-
-
-
-
-
+There are lots of other machine learning and AI projects in the [artificial intelligence](https://projects.raspberrypi.org/en/pathways/ai-toolkit) toolkit.

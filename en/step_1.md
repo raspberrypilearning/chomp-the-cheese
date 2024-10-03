@@ -12,7 +12,8 @@ title: Where are my images stored?
 ---
 
 - This project uses a technology called 'machine learning'. Machine learning systems are trained using a large amount of data﻿. The machine learning system used in this project has already been trained using a large number of photos, and your images will not be used to train it.
-- No images from your webcam are stored or sent to this website or any other website.
+- No images from your webcam are sent to this website or any other website.
+
 
 --- /collapse ---
 
@@ -21,7 +22,7 @@ title: Where are my images stored?
 title: No YouTube? Download the videos!
 ---
 
-You can download all the videos for this project, including the above video [by clicking here](https://rpf.io/p/en/chomp-the-cheese-go){:target="_blank"}. 
+You can [download all the videos for this project](https://rpf.io/p/en/chomp-the-cheese-go){:target="_blank"}. 
 
 
 --- /collapse ---

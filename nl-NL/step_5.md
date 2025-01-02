@@ -1,22 +1,22 @@
-## Challenge
+## Uitdaging
 
 \--- challenge ---
 
 \--- task ---
 
-Play a sound when the cheesy puffs touch the player's mouth.
+Speel een geluid af wanneer de chipito's de mond van de speler raken.
 
 \--- /task ---
 
 \--- task ---
 
-Add a variable to keep track of how many cheesy puffs the player has eaten.
+Voeg een variabele toe om bij te houden hoeveel chipito's de speler heeft gegeten.
 
 \--- /task ---
 
 \--- task ---
 
-Add another sprite that the player should avoid eating!
+Voeg nog een sprite toe die de speler niet mag opeten!
 
 \--- /task ---
 

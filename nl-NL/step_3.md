@@ -1,4 +1,4 @@
-## Move the cheese
+## Verplaats de kaas
 
 <html>
   <div style="position: relative; overflow: hidden; padding-top: 56.25%;">
@@ -6,25 +6,25 @@
   </div>
 </html>
 
-Make your cheesy puffs move randomly around the screen.
+Laat je chipito's willekeurig over het scherm bewegen.
 
 \--- task ---
 
-Delete the **cat** sprite.
+Verwijder de **kat** sprite.
 
 \--- /task ---
 
 \--- task ---
 
-Add a new sprite. You can choose an existing sprite, upload an image, or even paint your own sprite! We chose the **Cheesy Puffs** sprite.
+Voeg een nieuwe sprite toe. Je kunt een bestaande sprite kiezen, een afbeelding uploaden of zelfs je eigen sprite tekenen! We hebben de **Cheesy Puffs** sprite gekozen.
 
-![The 'Choose a Sprite' menu, with the 'Choose a Sprite' option highlighted.](images/choose-sprite.png)
+![Het 'Kies een Sprite' menu, met de optie 'Kies een Sprite' gemarkeerd.](images/kies-sprite.png)
 
 \--- /task ---
 
 \--- task ---
 
-Add some code to make the sprite move to random positions around the screen:
+Voeg wat code toe om de sprite naar willekeurige posities op het scherm te laten bewegen:
 
 ```blocks3
 when flag clicked
@@ -36,6 +36,6 @@ glide (1) secs to (random position v)
 
 \--- task ---
 
-**Test:** Click on the green flag and check that your sprite moves randomly around the screen to different places.
+**Test:** Klik op de groene vlag en controleer of je sprite willekeurig over het scherm naar verschillende plekken beweegt.
 
 \--- /task ---

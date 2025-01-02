@@ -1,27 +1,27 @@
-title: Chomp the cheese
+title: Manger le fromage
 hero_image: images/banner.png
-description: Make a facial recognition game where you have to eat cheesy puffs that are moving around you
+description: Crée un jeu à l'aide de la reconnaissance faciale dans lequel tu dois manger des chipitos au fromage qui se déplacent autour de toi
 version: 1
 listed: false
 copyedit: false
 last_tested: "2024-07-02"
 steps:
   - 
-    title: What you will make
+    title: Ce que tu vas faire
   - 
-    title: Set up the project
+    title: Configurer le projet
     completion:
       - engaged
   - 
-    title: Move the cheese
+    title: Déplacer le fromage
   - 
-    title: Chomp the cheese
+    title: Manger le fromage
     completion:
       - internal
   - 
-    title: Challenge
+    title: Défi
     challenge: true
   - 
-    title: What can you do now?
+    title: Que peux-tu faire maintenant ?
     completion:
       - external

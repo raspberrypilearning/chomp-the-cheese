@@ -1,24 +1,24 @@
-## What you will make
+## Wat ga je maken
 
-Use the facial recognition tools in Scratch Lab to make a cheese chomping game you play with your mouth!
+Gebruik de gezichtsherkenningstools in Scratch Lab om een kaas knabbelspel te maken dat je met je mond speelt!
 
-You will need a **webcam** to complete this project.
+Je hebt een **webcam** nodig om dit project te voltooien.
 
-![Aa game in Scratch with a floating bowl of cheese puffs in front of a webcam image of a middle aged woman with her mouth open.](images/whatyouwillmake.png)
+![Een spelletje in Scratch met een zwevende kom met chipito's voor een webcambeeld van een vrouw van middelbare leeftijd met haar mond open.](images/whatyouwillmake.png)
 
 ## --- collapse ---
 
-## title: Where are my images stored?
+## title: Waar worden mijn afbeeldingen opgeslagen?
 
-- This project uses a technology called 'machine learning'. Machine learning systems are trained using a large amount of data﻿. The machine learning system used in this project has already been trained using a large number of photos, and your images will not be used to train it.
-- No images from your webcam are sent to this website or any other website.
+- Dit project maakt gebruik van een technologie genaamd 'machine learning'. Machine learning-systemen worden getraind met behulp van een grote hoeveelheid data. Het machine learning-systeem dat in dit project wordt gebruikt, is al getraind met behulp van een groot aantal foto's, maar jouw afbeeldingen worden niet gebruikt om het systeem te trainen.
+- Er worden geen afbeeldingen van je webcam verzonden naar deze website of naar een andere website.
 
 \--- /collapse ---
 
 ## --- collapse ---
 
-## title: No YouTube? Download the videos!
+## title: Geen YouTube? Download de video's!
 
-You can [download all the videos for this project](https://rpf.io/p/en/chomp-the-cheese-go){:target="_blank"}.
+Je kunt [alle video's voor dit project downloaden](https://rpf.io/p/en/chomp-the-cheese-go){:target="_blank"}.
 
 \--- /collapse ---

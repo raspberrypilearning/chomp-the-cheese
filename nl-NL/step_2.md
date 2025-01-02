@@ -1,4 +1,4 @@
-## Set up the project
+## Het project opzetten
 
 <html>
   <div style="position: relative; overflow: hidden; padding-top: 56.25%;">
@@ -6,32 +6,32 @@
   </div>
 </html>
 
-This project uses a special experimental version of Scratch called Scratch Lab, which has some extra features.
+Dit project maakt gebruik van een speciale experimentele versie van Scratch, genaamd Scratch Lab, die een aantal extra functies heeft.
 
 \--- task ---
 
 Open [Scratch Lab](https://lab.scratch.mit.edu/){:target="_blank"}.
 
-Click on **Face Sensing**.
+Klik op **Gezichtsdetectie**.
 
-![The Scratch Lab website with an arrow pointing to 'Face Sensing'.](images/facial-recognition.png)
-
-\--- /task ---
-
-\--- task ---
-
-Click the **Try it out** button.
+![De website van Scratch Lab met een pijl die naar 'Gezichtsdetectie' wijst.](images/facial-recognition.png)
 
 \--- /task ---
 
 \--- task ---
 
-If you are asked for permission to use your webcam, click on **Allow on every visit**.
-
-![A pop-up asking for permission to use the webcam, with an arrow pointing to 'Allow on every visit'.](images/allow-webcam.png)
+Klik op de **Probeer het uit** knop.
 
 \--- /task ---
 
-You should now see a version of Scratch with special `Face Sensing`{:class="block3extensions"} blocks. The view from your webcam will also be displayed on the Stage.
+\--- task ---
 
-![A version of the Scratch software with green 'Face Sensing' blocks.](images/scratch-special.png)
+Als er toestemming wordt gevraagd om je webcam te gebruiken, klik dan op **Toestaan bij elk bezoek**.
+
+![Een pop-up om toestemming te vragen om de webcam te gebruiken, met een pijl die wijst naar 'Toestaan bij elk bezoek'.](images/allow-webcam.png)
+
+\--- /task ---
+
+Je zou nu een versie van Scratch moeten zien met speciale `Face Sensing` (Gezichtsdetectie){:class="block3extensions"} blokken. De weergave van je webcam wordt ook weergegeven in het speelveld.
+
+![Een versie van de Scratch software met groene blokken 'Gezichtsdetectie' blokken.](images/scratch-special.png)

@@ -1,4 +1,4 @@
-## Move the cheese
+## Рухай сирні палички
 
 <html>
   <div style="position: relative; overflow: hidden; padding-top: 56.25%;">
@@ -6,25 +6,25 @@
   </div>
 </html>
 
-Make your cheesy puffs move randomly around the screen.
+Зробіть так, щоб сирні палички довільно рухалися по екрану.
 
 \--- task ---
 
-Delete the **cat** sprite.
+Видали спрайт кота.
 
 \--- /task ---
 
 \--- task ---
 
-Add a new sprite. You can choose an existing sprite, upload an image, or even paint your own sprite! We chose the **Cheesy Puffs** sprite.
+Додай новий спрайт. Ти можеш вибрати спрайт з колекції, завантажити зображення або навіть намалювати власний спрайт! Ми вибрали спрайт **Cheesy Puffs** («Сирні палички»).
 
-![The 'Choose a Sprite' menu, with the 'Choose a Sprite' option highlighted.](images/choose-sprite.png)
+![Меню «Вибери спрайт» із виділеною опцією «Вибрати спрайт».](images/choose-sprite.png)
 
 \--- /task ---
 
 \--- task ---
 
-Add some code to make the sprite move to random positions around the screen:
+Додай код, щоб спрайт переміщався в довільні місця на екрані:
 
 ```blocks3
 when flag clicked
@@ -36,6 +36,6 @@ glide (1) secs to (random position v)
 
 \--- task ---
 
-**Test:** Click on the green flag and check that your sprite moves randomly around the screen to different places.
+**Протестуй:** натисни на зелений прапорець і перевір, чи спрайт переміщується по екрану випадковим чином.
 
 \--- /task ---

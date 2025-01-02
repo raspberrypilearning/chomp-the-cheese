@@ -1,0 +1,22 @@
+---
+title: Manger le fromage
+hero_image: images/banner.png
+description: Crée un jeu à l'aide de la reconnaissance faciale dans lequel tu dois manger des chipitos au fromage qui se déplacent autour de toi
+version: 1
+listed: false
+copyedit: false
+last_tested: "2024-07-02"
+steps:
+  - title: Ce que tu vas faire
+  - title: Configurer le projet
+    completion:
+      - engaged
+  - title: Déplacer le fromage
+  - title: Manger le fromage
+    completion:
+      - internal
+  - title: Défi
+    challenge: true
+  - title: Que peux-tu faire maintenant ?
+    completion:
+      - external

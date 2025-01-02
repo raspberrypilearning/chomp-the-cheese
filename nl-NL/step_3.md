@@ -18,7 +18,7 @@ Verwijder de **kat** sprite.
 
 Voeg een nieuwe sprite toe. Je kunt een bestaande sprite kiezen, een afbeelding uploaden of zelfs je eigen sprite tekenen! We hebben de **Cheesy Puffs** sprite gekozen.
 
-![Het 'Kies een Sprite' menu, met de optie 'Kies een Sprite' gemarkeerd.](images/kies-sprite.png)
+![Het 'Kies een Sprite' menu, met de optie 'Kies een Sprite' gemarkeerd.](images/choose-sprite.png)
 
 --- /task ---
 

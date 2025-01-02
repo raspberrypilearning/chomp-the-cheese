@@ -1,27 +1,27 @@
-title: Chomp the cheese
+title: Knabbel aan de kaas
 hero_image: images/banner.png
-description: Make a facial recognition game where you have to eat cheesy puffs that are moving around you
+description: Maak een gezichtsherkenningsspel waarbij je chipito's moet eten die om je heen bewegen
 version: 1
 listed: false
 copyedit: false
 last_tested: "2024-07-02"
 steps:
   - 
-    title: What you will make
+    title: Wat ga je maken
   - 
-    title: Set up the project
+    title: Het project opzetten
     completion:
       - engaged
   - 
-    title: Move the cheese
+    title: Verplaats de kaas
   - 
-    title: Chomp the cheese
+    title: Knabbel aan de kaas
     completion:
       - internal
   - 
-    title: Challenge
+    title: Uitdaging
     challenge: true
   - 
-    title: What can you do now?
+    title: Wat kun je nu doen?
     completion:
       - external

@@ -1,22 +1,22 @@
-## Challenge
+## Défi
 
 \--- challenge ---
 
 \--- task ---
 
-Play a sound when the cheesy puffs touch the player's mouth.
+Joue un son lorsque les chipitos au fromage touchent la bouche du joueur.
 
 \--- /task ---
 
 \--- task ---
 
-Add a variable to keep track of how many cheesy puffs the player has eaten.
+Ajoute une variable pour comptabiliser le nombre de chipitos au fromage que le joueur a mangé.
 
 \--- /task ---
 
 \--- task ---
 
-Add another sprite that the player should avoid eating!
+Ajoute un autre sprite que le joueur doit éviter de manger !
 
 \--- /task ---
 

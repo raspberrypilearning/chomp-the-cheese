@@ -1,0 +1,22 @@
+---
+title: Knabbel aan de kaas
+hero_image: images/banner.png
+description: Maak een gezichtsherkenningsspel waarbij je chipito's moet eten die om je heen bewegen
+version: 1
+listed: false
+copyedit: false
+last_tested: "2024-07-02"
+steps:
+  - title: Wat ga je maken
+  - title: Het project opzetten
+    completion:
+      - engaged
+  - title: Verplaats de kaas
+  - title: Knabbel aan de kaas
+    completion:
+      - internal
+  - title: Uitdaging
+    challenge: true
+  - title: Wat kun je nu doen?
+    completion:
+      - external

@@ -1,22 +1,22 @@
-## Challenge
+## Додаткове завдання
 
 \--- challenge ---
 
 \--- task ---
 
-Play a sound when the cheesy puffs touch the player's mouth.
+Додай звук, який гратиме, коли сирні палички торкаються рота гравця.
 
 \--- /task ---
 
 \--- task ---
 
-Add a variable to keep track of how many cheesy puffs the player has eaten.
+Додай змінну, щоб відстежувати, скільки сирних паличок з’їв гравець.
 
 \--- /task ---
 
 \--- task ---
 
-Add another sprite that the player should avoid eating!
+Додай ще один спрайт, який гравець не повинен зʼїсти!
 
 \--- /task ---
 

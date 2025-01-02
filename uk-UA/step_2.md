@@ -1,4 +1,4 @@
-## Set up the project
+## Створи проєкт
 
 <html>
   <div style="position: relative; overflow: hidden; padding-top: 56.25%;">
@@ -6,32 +6,32 @@
   </div>
 </html>
 
-This project uses a special experimental version of Scratch called Scratch Lab, which has some extra features.
+У цьому проєкті використовується спеціальна експериментальна версія Скретчу під назвою Scratch Lab («Лабораторія Скретчу»), яка має деякі додаткові функції.
 
 \--- task ---
 
-Open [Scratch Lab](https://lab.scratch.mit.edu/){:target="_blank"}.
+Відкрий [Scratch Lab](https://lab.scratch.mit.edu/){:target="_blank"}.
 
-Click on **Face Sensing**.
+Натисни на **Face Sensing** («Розпізнавання обличчя»).
 
-![The Scratch Lab website with an arrow pointing to 'Face Sensing'.](images/facial-recognition.png)
+![Веб-сайт Scratch Lab зі стрілкою, що вказує на «Face Sensing» («розпізнавання обличчя»).](images/facial-recognition.png)
 
 \--- /task ---
 
 \--- task ---
 
-Click the **Try it out** button.
+Натисни кнопку **Try it out** («Спробувати»).
 
 \--- /task ---
 
 \--- task ---
 
-If you are asked for permission to use your webcam, click on **Allow on every visit**.
+Якщо браузер запитає дозвіл на використання твоєї вебкамери, натисни **Дозволити під час кожного відвідування**.
 
-![A pop-up asking for permission to use the webcam, with an arrow pointing to 'Allow on every visit'.](images/allow-webcam.png)
+![Спливне вікно із запитом дозволу на використання вебкамери зі стрілкою, що вказує на «Дозволити під час кожного відвідування».](images/allow-webcam.png)
 
 \--- /task ---
 
-You should now see a version of Scratch with special `Face Sensing`{:class="block3extensions"} blocks. The view from your webcam will also be displayed on the Stage.
+Тепер ти маєш побачити версію Скретчу зі спеціальними блоками `Face Sensing`{:class="block3extensions"} («розпізнавання обличчя»). Вид з твоєї вебкамери також буде відображатися на Сцені.
 
-![A version of the Scratch software with green 'Face Sensing' blocks.](images/scratch-special.png)
+![Версія програми Скретч із зеленими блоками «Face Sensing» («розпізнавання обличчя»).](images/scratch-special.png)

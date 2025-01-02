@@ -1,4 +1,4 @@
-## Set up the project
+## Configurer le projet
 
 <html>
   <div style="position: relative; overflow: hidden; padding-top: 56.25%;">
@@ -6,32 +6,32 @@
   </div>
 </html>
 
-This project uses a special experimental version of Scratch called Scratch Lab, which has some extra features.
+Ce projet utilise une version expérimentale spéciale de Scratch appelée Scratch Lab, qui possède quelques fonctionnalités supplémentaires.
 
 \--- task ---
 
-Open [Scratch Lab](https://lab.scratch.mit.edu/){:target="_blank"}.
+Ouvre [Scratch Lab](https://lab.scratch.mit.edu/){:target="_blank"}.
 
-Click on **Face Sensing**.
+Clique sur **Face Sensing**.
 
-![The Scratch Lab website with an arrow pointing to 'Face Sensing'.](images/facial-recognition.png)
+![Le site web Scratch Lab avec une flèche pointant vers "Face Sensing".](images/facial-recognition.png)
 
 \--- /task ---
 
 \--- task ---
 
-Click the **Try it out** button.
+Clique sur le bouton **Try it out**.
 
 \--- /task ---
 
 \--- task ---
 
-If you are asked for permission to use your webcam, click on **Allow on every visit**.
+Si l'on te demande l'autorisation d'utiliser ta webcam, clique sur **Autoriser cette fois-ci**.
 
-![A pop-up asking for permission to use the webcam, with an arrow pointing to 'Allow on every visit'.](images/allow-webcam.png)
+![Une fenêtre contextuelle demandant l'autorisation d'utiliser la webcam, avec une flèche pointant vers "Autoriser cette fois-ci".](images/allow-webcam.png)
 
 \--- /task ---
 
-You should now see a version of Scratch with special `Face Sensing`{:class="block3extensions"} blocks. The view from your webcam will also be displayed on the Stage.
+Tu devrais maintenant voir une version de Scratch avec des blocs spéciaux `Face Sensing`{:class="block3extensions"}. La vue de ta webcam sera également affichée sur la scène.
 
-![A version of the Scratch software with green 'Face Sensing' blocks.](images/scratch-special.png)
+![Une version du logiciel Scratch avec des blocs verts "Face Sensing".](images/scratch-special.png)

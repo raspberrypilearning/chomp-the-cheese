@@ -1,4 +1,4 @@
-## Chomp the cheese
+## Хрумай сирні палички
 
 <html>
   <div style="position: relative; overflow: hidden; padding-top: 56.25%;">
@@ -6,19 +6,19 @@
   </div>
 </html>
 
-Make the cheesy puffs get chomped when they touch the player's mouth!
+Зроби так, щоб гравець їв сирні палички, коли вони торкатимуться його рота на екрані!
 
 \--- task ---
 
-In the code for the **Cheesy Puffs** sprite, add a block from the `Face Sensing`{:class="block3extensions"} blocks menu to detect when the sprite touches a mouth:
+У код для спрайта **Cheesy Puffs** додай блок із меню `Face Sensing`{:class="block3extensions"}, щоб визначати, коли спрайт торкається рота:
 
-![A green 'when this sprite touches a mouth' block from the 'Face Sensing' blocks menu.](images/touches-mouth.png)
+![Зелений блок «коли цей спрайт торкається рота» в меню блоків «Face Sensing» («розпізнавання обличчя»).](images/touches-mouth.png)
 
 \--- /task ---
 
 \--- task ---
 
-Add some code blocks under the `Face Sensing`{:class="block3extensions"} block to make the cheesy puffs disappear when they touch a mouth:
+Додай ці декілька блоків коду під блок `Face Sensing`{:class="block3extensions"}, щоб сирні палички зникали, коли вони торкаються рота:
 
 ```blocks3
 hide
@@ -30,6 +30,6 @@ show
 
 \--- task ---
 
-Click on the green flag and have fun trying to catch the cheesy puffs with your mouth!
+Натисни на зелений прапорець і спробуй зловити сирні палички ротом!
 
 \--- /task ---

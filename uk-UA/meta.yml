@@ -1,27 +1,27 @@
-title: Chomp the cheese
+title: Хрумай сирні палички
 hero_image: images/banner.png
-description: Make a facial recognition game where you have to eat cheesy puffs that are moving around you
+description: Створи гру з розпізнаванням обличчя, де ти маєш їсти сирні палички, які рухаються навколо тебе
 version: 1
 listed: false
 copyedit: false
 last_tested: "2024-07-02"
 steps:
   - 
-    title: What you will make
+    title: Що ти зробиш
   - 
-    title: Set up the project
+    title: Створи проєкт
     completion:
       - engaged
   - 
-    title: Move the cheese
+    title: Рухай сирні палички
   - 
-    title: Chomp the cheese
+    title: Хрумай сирні палички
     completion:
       - internal
   - 
-    title: Challenge
+    title: Додаткове завдання
     challenge: true
   - 
-    title: What can you do now?
+    title: Що ти тепер вмієш?
     completion:
       - external

@@ -1,24 +1,24 @@
-## What you will make
+## Ce que tu vas faire
 
-Use the facial recognition tools in Scratch Lab to make a cheese chomping game you play with your mouth!
+Utilise les outils de reconnaissance faciale de Scratch Lab pour créer un jeu de grignotage de fromage auquel tu joues avec ta bouche !
 
-You will need a **webcam** to complete this project.
+Tu auras besoin d'une **webcam** pour réaliser ce projet.
 
-![Aa game in Scratch with a floating bowl of cheese puffs in front of a webcam image of a middle aged woman with her mouth open.](images/whatyouwillmake.png)
+![Un jeu Scratch avec un bol flottant de chipitos au fromage devant l'image d'une webcam représentant une femme d'âge moyen la bouche ouverte.](images/whatyouwillmake.png)
 
 ## --- collapse ---
 
-## title: Where are my images stored?
+## title: Où sont stockées mes images ?
 
-- This project uses a technology called 'machine learning'. Machine learning systems are trained using a large amount of data﻿. The machine learning system used in this project has already been trained using a large number of photos, and your images will not be used to train it.
-- No images from your webcam are sent to this website or any other website.
+- Ce projet utilise une technologie appelée « apprentissage automatique ». Les systèmes d'apprentissage automatique sont entraînés à l'aide d'une grande quantité de données. Le système d'apprentissage automatique utilisé dans ce projet a déjà été entraîné en utilisant un grand nombre de photos. Tes images ne seront pas utilisées pour l'entraîner.
+- Aucune image de ta webcam n'est envoyée à ce site ou à aucun autre site web.
 
 \--- /collapse ---
 
 ## --- collapse ---
 
-## title: No YouTube? Download the videos!
+## title: Pas de YouTube ? Télécharge les vidéos !
 
-You can [download all the videos for this project](https://rpf.io/p/en/chomp-the-cheese-go){:target="_blank"}.
+Tu peux [télécharger l'ensemble des vidéos de ce projet](https://rpf.io/p/en/chomp-the-cheese-go){:target="_blank"}.
 
 \--- /collapse ---

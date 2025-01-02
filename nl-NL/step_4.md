@@ -1,4 +1,4 @@
-## Chomp the cheese
+## Knabbel aan de kaas
 
 <html>
   <div style="position: relative; overflow: hidden; padding-top: 56.25%;">
@@ -6,19 +6,19 @@
   </div>
 </html>
 
-Make the cheesy puffs get chomped when they touch the player's mouth!
+Zorg ervoor dat de kaasbolletjes opgegeten worden als ze de mond van de speler raken!
 
 \--- task ---
 
-In the code for the **Cheesy Puffs** sprite, add a block from the `Face Sensing`{:class="block3extensions"} blocks menu to detect when the sprite touches a mouth:
+Voeg in de code voor de sprite **Cheesy Puffs** een blok toe uit het blokkenmenu `Face Sensing`{:class="block3extensions"} om te detecteren wanneer de sprite een mond aanraakt:
 
-![A green 'when this sprite touches a mouth' block from the 'Face Sensing' blocks menu.](images/touches-mouth.png)
+![Een groen 'when this sprite touches a mouth'-blok uit het 'Face Sensing'-blokkenmenu.](images/touches-mouth.png)
 
 \--- /task ---
 
 \--- task ---
 
-Add some code blocks under the `Face Sensing`{:class="block3extensions"} block to make the cheesy puffs disappear when they touch a mouth:
+Voeg wat codeblokken toe onder het `Face Sensing`{:class="block3extensions"} blok om de chipito's te laten verdwijnen wanneer ze een mond aanraken:
 
 ```blocks3
 hide
@@ -30,6 +30,6 @@ show
 
 \--- task ---
 
-Click on the green flag and have fun trying to catch the cheesy puffs with your mouth!
+Klik op de groene vlag en probeer de chipito's met je mond te vangen!
 
 \--- /task ---

@@ -1,4 +1,4 @@
-## Set up the project
+## Imposta il progetto
 
 <html>
   <div style="position: relative; overflow: hidden; padding-top: 56.25%;">
@@ -6,32 +6,32 @@
   </div>
 </html>
 
-This project uses a special experimental version of Scratch called Scratch Lab, which has some extra features.
+Questo progetto utilizza una versione sperimentale speciale di Scratch chiamata Scratch Lab, dotata di alcune funzionalità aggiuntive.
 
 \--- task ---
 
-Open [Scratch Lab](https://lab.scratch.mit.edu/){:target="_blank"}.
+Apri [Scratch Lab](https://lab.scratch.mit.edu/){:target="_blank"}.
 
-Click on **Face Sensing**.
+Fai clic su **Face Sensing**.
 
-![The Scratch Lab website with an arrow pointing to 'Face Sensing'.](images/facial-recognition.png)
+![Il sito web di Scratch Lab con una freccia che punta all'opzione "Face Sensing".](images/facial-recognition.png)
 
 \--- /task ---
 
 \--- task ---
 
-Click the **Try it out** button.
+Fai clic sul pulsante **Try it out**.
 
 \--- /task ---
 
 \--- task ---
 
-If you are asked for permission to use your webcam, click on **Allow on every visit**.
+Se ti viene chiesto il permesso di utilizzare la webcam, clicca su **Consenti durante la visita al sito**.
 
-![A pop-up asking for permission to use the webcam, with an arrow pointing to 'Allow on every visit'.](images/allow-webcam.png)
+![Una finestra pop-up che chiede il permesso di utilizzare la webcam, con una freccia che punta a "Consenti durante la visita al sito".](images/allow-webcam.png)
 
 \--- /task ---
 
-You should now see a version of Scratch with special `Face Sensing`{:class="block3extensions"} blocks. The view from your webcam will also be displayed on the Stage.
+Ora dovresti vedere una versione di Scratch con i blocchi speciali `Face Sensing`{:class="block3extensions"}. La visuale della tua webcam verrà mostrata anche sullo stage.
 
-![A version of the Scratch software with green 'Face Sensing' blocks.](images/scratch-special.png)
+![Una versione del software Scratch con i blocchi verdi "Face Sensing".](images/scratch-special.png)

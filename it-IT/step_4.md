@@ -1,4 +1,4 @@
-## Chomp the cheese
+## Sgranocchia il formaggio
 
 <html>
   <div style="position: relative; overflow: hidden; padding-top: 56.25%;">
@@ -6,19 +6,19 @@
   </div>
 </html>
 
-Make the cheesy puffs get chomped when they touch the player's mouth!
+Fai in modo che i puff al formaggio vengano "sgranocchiati" quando toccano la bocca del giocatore!
 
 \--- task ---
 
-In the code for the **Cheesy Puffs** sprite, add a block from the `Face Sensing`{:class="block3extensions"} blocks menu to detect when the sprite touches a mouth:
+Nel codice per lo sprite **Cheesy Puffs**, aggiungi un blocco dal menu dei blocchi `Face Sensing`{:class="block3extensions"} per rilevare quando lo sprite tocca una bocca:
 
-![A green 'when this sprite touches a mouth' block from the 'Face Sensing' blocks menu.](images/touches-mouth.png)
+![Un blocco verde 'when this sprite touches a mouth' dal menu dei blocchi 'Face Sensing'] (images/touches-mouth.png)
 
 \--- /task ---
 
 \--- task ---
 
-Add some code blocks under the `Face Sensing`{:class="block3extensions"} block to make the cheesy puffs disappear when they touch a mouth:
+Aggiungi dei blocchi di codice sotto il blocco `Face Sensing`{:class="block3extensions"} per far sparire i puff al formaggio quando toccano una bocca:
 
 ```blocks3
 hide
@@ -30,6 +30,6 @@ show
 
 \--- task ---
 
-Click on the green flag and have fun trying to catch the cheesy puffs with your mouth!
+Fai clic sulla bandierina verde e divertiti a catturare i puff al formaggio con la bocca!
 
 \--- /task ---

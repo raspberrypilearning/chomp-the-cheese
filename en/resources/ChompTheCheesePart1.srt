@@ -1,0 +1,8 @@
+1
+00:00:05,880 --> 00:00:11,680
+Open Scratch Lab and click on 'Face sensing'.
+
+2
+00:00:11,680 --> 00:00:18,640
+Then click on 'Try it out'.
+

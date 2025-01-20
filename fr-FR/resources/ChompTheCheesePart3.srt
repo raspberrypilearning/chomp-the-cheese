@@ -1,8 +1,8 @@
 1
 00:00:04,731 --> 00:00:09,291
-Use a face sensing block to detect when the cheesy puffs touch your mouth.
+Utilise un bloc Face Sensing pour détecter quand les chipitos touchent ta bouche.
 
 2
 00:00:09,624 --> 00:00:15,000
-When they do, hide them, wait for a bit, then show again to restart the game.
+Lorsqu'ils le font, cache-les, attends un peu, puis affiche-les à nouveau pour redémarrer le jeu.
 

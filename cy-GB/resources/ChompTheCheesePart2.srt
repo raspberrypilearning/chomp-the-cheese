@@ -1,17 +1,17 @@
 1
 00:00:04,760 --> 00:00:09,120
-Delete the cat and add your own sprite.
+Dileu'r gath ac ychwanegu eich corlun eich hun.
 
 2
 00:00:09,120 --> 00:00:11,920
-We chose the cheesy puffs!
+Dewison ni'r pwff cawslyd!
 
 3
 00:00:11,920 --> 00:00:19,760
-Drag in the code blocks to make the cheesy 
-puffs move randomly around the screen.
+Llusgwch y blociau côd i mewn i wneud i'r pwff cawslyd
+symud ar hap o amgylch y sgrin.
 
 4
 00:00:19,760 --> 00:00:26,600
-Press the green flag and watch them go.
+Pwyswch y faner werdd a gwylio nhw'n mynd.
 

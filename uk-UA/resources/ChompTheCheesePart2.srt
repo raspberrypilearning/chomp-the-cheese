@@ -1,17 +1,16 @@
 1
 00:00:04,760 --> 00:00:09,120
-Delete the cat and add your own sprite.
+Видали кота та додай власний спрайт.
 
 2
 00:00:09,120 --> 00:00:11,920
-We chose the cheesy puffs!
+Ми вибрали сирні кульки!
 
 3
 00:00:11,920 --> 00:00:19,760
-Drag in the code blocks to make the cheesy 
-puffs move randomly around the screen.
+Перетягни блоки коду, щоб сирні кульки рухалися по екрану випадковим чином.
 
 4
 00:00:19,760 --> 00:00:26,600
-Press the green flag and watch them go.
+Натисни зелений прапорець і дивись!
 

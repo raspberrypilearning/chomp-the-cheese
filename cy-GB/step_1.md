@@ -1,24 +1,24 @@
-## What you will make
+## Beth fyddwch chi'n ei wneud
 
-Use the facial recognition tools in Scratch Lab to make a cheese chomping game you play with your mouth!
+Defnyddiwch yr offer adnabod wynebau yn Scratch Lab i wneud gêm cnoi caws rydych chi'n ei chwarae â'ch ceg!
 
-You will need a **webcam** to complete this project.
+Bydd angen **gwegamera** arnoch i gwblhau'r prosiect hwn.
 
-![Aa game in Scratch with a floating bowl of cheese puffs in front of a webcam image of a middle aged woman with her mouth open.](images/whatyouwillmake.png)
+![Gêm yn Scratch gyda phowlen arnofiol o bwff caws o flaen delwedd gwe-gamera o ddynes ganol oed gyda'i cheg ar agor.](images/whatyouwillmake.png)
 
 ## --- collapse ---
 
-## title: Where are my images stored?
+## title: Ble mae fy lluniau'n cael eu storio?
 
-- This project uses a technology called 'machine learning'. Machine learning systems are trained using a large amount of data﻿. The machine learning system used in this project has already been trained using a large number of photos, and your images will not be used to train it.
-- No images from your webcam are sent to this website or any other website.
+- Mae'r prosiect hwn yn defnyddio technoleg o'r enw 'dysgu peirianyddol'. Mae systemau dysgu peirianyddol yn cael eu hyfforddi gan ddefnyddio llawer iawn o ddata. Mae'r system dysgu peiriant a ddefnyddir yn y prosiect hwn eisoes wedi'i hyfforddi gan ddefnyddio nifer fawr o luniau, ac ni fydd eich delweddau'n cael eu defnyddio i'w hyfforddi.
+- Nid oes unrhyw ddelweddau o'ch gwe-gamera yn cael eu hanfon i'r wefan hon nac unrhyw wefan arall.
 
 \--- /collapse ---
 
 ## --- collapse ---
 
-## title: No YouTube? Download the videos!
+## title: Dim YouTube? Lawrlwythwch y fideos!
 
-You can [download all the videos for this project](https://rpf.io/p/en/chomp-the-cheese-go){:target="_blank"}.
+Gallwch [lawrlwytho'r holl fideos ar gyfer y prosiect hwn](https://rpf.io/p/en/chomp-the-cheese-go){:target = "_blank"}.
 
 \--- /collapse ---

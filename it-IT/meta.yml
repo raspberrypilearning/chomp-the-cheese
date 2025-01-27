@@ -2,7 +2,7 @@ title: Sgranocchia il formaggio
 hero_image: images/banner.png
 description: Crea un gioco di riconoscimento facciale in cui devi mangiare puff al formaggio che si muovono intorno a te
 version: 1
-listed: false
+listed: true
 copyedit: false
 last_tested: "2024-07-02"
 steps:

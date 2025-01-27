@@ -2,7 +2,7 @@ title: Chomp the cheese
 hero_image: images/banner.png
 description: Make a facial recognition game where you have to eat cheesy puffs that are moving around you
 version: 1
-listed: false
+listed: true
 copyedit: false
 last_tested: "2024-07-02"
 steps:

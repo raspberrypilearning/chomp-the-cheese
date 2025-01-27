@@ -2,7 +2,7 @@ title: Хрумай сирні палички
 hero_image: images/banner.png
 description: Створи гру з розпізнаванням обличчя, де ти маєш їсти сирні палички, які рухаються навколо тебе
 version: 1
-listed: false
+listed: true
 copyedit: false
 last_tested: "2024-07-02"
 steps:

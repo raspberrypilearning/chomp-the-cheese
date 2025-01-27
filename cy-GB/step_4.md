@@ -1,4 +1,4 @@
-## Chomp the cheese
+## Cnowch y caws
 
 <html>
   <div style="position: relative; overflow: hidden; padding-top: 56.25%;">
@@ -6,19 +6,19 @@
   </div>
 </html>
 
-Make the cheesy puffs get chomped when they touch the player's mouth!
+Gwnewch i'r pwff cawslyd gael eu cnoi pan fyddant yn cyffwrdd â cheg y chwaraewr!
 
 \--- task ---
 
-In the code for the **Cheesy Puffs** sprite, add a block from the `Face Sensing`{:class="block3extensions"} blocks menu to detect when the sprite touches a mouth:
+Yn y côd ar gyfer y corlun **Pwff Cawslyd**, ychwanegwch floc o'r ddewislen blociau `Face Sensing`{:class="block3extensions"} i ganfod pan fydd y corlun yn cyffwrdd â cheg:
 
-![A green 'when this sprite touches a mouth' block from the 'Face Sensing' blocks menu.](images/touches-mouth.png)
+![Bloc gwyrdd 'pan fydd y corlun hwn yn cyffwrdd â cheg' o'r ddewislen blociau 'Synhwyro Wyneb'.] (images/touches-mouth.png)
 
 \--- /task ---
 
 \--- task ---
 
-Add some code blocks under the `Face Sensing`{:class="block3extensions"} block to make the cheesy puffs disappear when they touch a mouth:
+Ychwanegwch rai blociau cod o dan y bloc `Synhwyro Wyneb`{:class="block3extensions"} i wneud i'r pwff cawslyd ddiflannu pan fyddant yn cyffwrdd â cheg:
 
 ```blocks3
 hide
@@ -30,6 +30,6 @@ show
 
 \--- task ---
 
-Click on the green flag and have fun trying to catch the cheesy puffs with your mouth!
+Cliciwch ar y faner werdd a chael hwyl yn ceisio dal y pwff cawslyd gyda'ch ceg!
 
 \--- /task ---

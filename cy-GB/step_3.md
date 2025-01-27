@@ -1,4 +1,4 @@
-## Move the cheese
+## Symud y caws
 
 <html>
   <div style="position: relative; overflow: hidden; padding-top: 56.25%;">
@@ -6,25 +6,25 @@
   </div>
 </html>
 
-Make your cheesy puffs move randomly around the screen.
+Gwnewch i'ch pwff cawslyd symud ar hap o amgylch y sgrin.
 
 \--- task ---
 
-Delete the **cat** sprite.
+Dileu corlun y **gath**.
 
 \--- /task ---
 
 \--- task ---
 
-Add a new sprite. You can choose an existing sprite, upload an image, or even paint your own sprite! We chose the **Cheesy Puffs** sprite.
+Ychwanegu corlun arall. Gallwch ddewis corlun sy'n bodoli eisoes, uwchlwytho delwedd, neu hyd yn oed baentio eich corlun eich hun! Dewison ni'r corlun **Pwff Cawslyd**.
 
-![The 'Choose a Sprite' menu, with the 'Choose a Sprite' option highlighted.](images/choose-sprite.png)
+![Y ddewislen 'Choose a Sprite', gyda'r opsiwn 'Choose a Sprite' wedi'i amlygu.](images/choose-sprite.png)
 
 \--- /task ---
 
 \--- task ---
 
-Add some code to make the sprite move to random positions around the screen:
+Ychwanegwch ychydig o gôd i wneud i'r corlun symud i safleoedd ar hap o amgylch y sgrin:
 
 ```blocks3
 when flag clicked
@@ -36,6 +36,6 @@ glide (1) secs to (random position v)
 
 \--- task ---
 
-**Test:** Click on the green flag and check that your sprite moves randomly around the screen to different places.
+**Profwch:** Cliciwch ar y faner werdd a gwiriwch fod eich corlun yn symud ar hap o amgylch y sgrin i wahanol leoedd.
 
 \--- /task ---

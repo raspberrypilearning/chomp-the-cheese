@@ -1,4 +1,4 @@
-## Set up the project
+## Gosodwch y prosiect
 
 <html>
   <div style="position: relative; overflow: hidden; padding-top: 56.25%;">
@@ -6,32 +6,32 @@
   </div>
 </html>
 
-This project uses a special experimental version of Scratch called Scratch Lab, which has some extra features.
+Mae'r prosiect hwn yn defnyddio fersiwn arbrofol arbennig o Scratch o'r enw Scratch Lab, sydd â rhai nodweddion ychwanegol.
 
 \--- task ---
 
-Open [Scratch Lab](https://lab.scratch.mit.edu/){:target="_blank"}.
+Agor [ Scratch Lab](https://lab.scratch.mit.edu/) {:target = "_blank"}.
 
-Click on **Face Sensing**.
+Cliciwch ar **Face Sensing**.
 
-![The Scratch Lab website with an arrow pointing to 'Face Sensing'.](images/facial-recognition.png)
+![Gwefan Scratch Lab gyda saeth yn pwyntio at 'Face Sensing'.](images/facial-recognition.png)
 
 \--- /task ---
 
 \--- task ---
 
-Click the **Try it out** button.
+Cliciwch y botwm **Rhowch gynnig arni**.
 
 \--- /task ---
 
 \--- task ---
 
-If you are asked for permission to use your webcam, click on **Allow on every visit**.
+Os gofynnir i chi am ganiatâd i ddefnyddio'ch gwe-gamera, cliciwch ar **Caniatáu ar bob ymweliad**.
 
-![A pop-up asking for permission to use the webcam, with an arrow pointing to 'Allow on every visit'.](images/allow-webcam.png)
+![ Naid yn gofyn am ganiatâd i ddefnyddio'r gwe-gamera, gyda saeth yn pwyntio at 'Caniatáu ar bob ymweliad'.](images/allow-webcam.png)
 
 \--- /task ---
 
-You should now see a version of Scratch with special `Face Sensing`{:class="block3extensions"} blocks. The view from your webcam will also be displayed on the Stage.
+Dylech nawr weld fersiwn o Scratch gyda blociau arbennig `Face Sensing`{:class="block3extensions"}. Bydd yr olygfa o'ch gwe-gamera hefyd yn cael ei harddangos ar y Llwyfan.
 
-![A version of the Scratch software with green 'Face Sensing' blocks.](images/scratch-special.png)
+![Fersiwn o'r meddalwedd Scratch gyda blociau gwyrdd 'Synhwyro Wyneb '.] (images/scratch-special.png)

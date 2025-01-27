@@ -1,27 +1,27 @@
-title: Chomp the cheese
+title: Cnô'r caws
 hero_image: images/banner.png
-description: Make a facial recognition game where you have to eat cheesy puffs that are moving around you
+description: Gwnewch gêm adnabod wynebau lle mae'n rhaid i chi fwyta pwff cawslyd sy'n symud o'ch cwmpas
 version: 1
 listed: true
 copyedit: false
 last_tested: "2024-07-02"
 steps:
   - 
-    title: What you will make
+    title: Beth fyddwch chi'n ei wneud
   - 
-    title: Set up the project
+    title: Gosodwch y prosiect
     completion:
       - engaged
   - 
-    title: Move the cheese
+    title: Symud y caws
   - 
-    title: Chomp the cheese
+    title: Cnowch y caws
     completion:
       - internal
   - 
-    title: Challenge
+    title: Her
     challenge: true
   - 
-    title: What can you do now?
+    title: Beth allwch chi ei wneud nawr?
     completion:
       - external

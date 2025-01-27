@@ -1,22 +1,22 @@
-## Challenge
+## Her
 
 \--- challenge ---
 
 \--- task ---
 
-Play a sound when the cheesy puffs touch the player's mouth.
+Chwaraewch sŵn pan fydd y pwff cawslyd yn cyffwrdd â cheg y chwaraewr.
 
 \--- /task ---
 
 \--- task ---
 
-Add a variable to keep track of how many cheesy puffs the player has eaten.
+Ychwanegwch newidyn i gadw golwg ar sawl pwff cawslyd y mae'r chwaraewr wedi'u bwyta.
 
 \--- /task ---
 
 \--- task ---
 
-Add another sprite that the player should avoid eating!
+Ychwanegwch corlun arall y dylai'r chwaraewr osgoi ei fwyta!
 
 \--- /task ---
 

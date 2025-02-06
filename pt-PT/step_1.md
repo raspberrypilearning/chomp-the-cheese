@@ -1,8 +1,8 @@
 ## O que vais fazer
 
-Use the facial recognition tools in Scratch Lab to make a cheese chomping game you play with your mouth!
+Usa as ferramentas de reconhecimento facial do Scratch Lab para criar um jogo de comer queijo para jogares com a boca!
 
-You will need a **webcam** to complete this project.
+Vais precisar de uma **webcam** para completar o projeto.
 
 ![Aa game in Scratch with a floating bowl of cheese puffs in front of a webcam image of a middle aged woman with her mouth open.](images/whatyouwillmake.png)
 

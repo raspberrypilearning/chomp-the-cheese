@@ -6,32 +6,32 @@
   </div>
 </html>
 
-This project uses a special experimental version of Scratch called Scratch Lab, which has some extra features.
+Este projeto usa uma versão especial experimental do Scratch chamada Scratch Lab que tem alguns recursos extra.
 
 \--- task ---
 
-Open [Scratch Lab](https://lab.scratch.mit.edu/){:target="_blank"}.
+Abre o [Scratch Lab](https://lab.scratch.mit.edu/){:target="_blank"}.
 
-Click on **Face Sensing**.
+Clica em **Detecção de Rosto**.
 
-![The Scratch Lab website with an arrow pointing to 'Face Sensing'.](images/facial-recognition.png)
+![O site do Scratch Lab com uma seta a apontar para 'Detecção de Rosto'.](images/facial-recognition.png)
 
 \--- /task ---
 
 \--- task ---
 
-Click the **Try it out** button.
+Clica no botão **Experimente**.
 
 \--- /task ---
 
 \--- task ---
 
-If you are asked for permission to use your webcam, click on **Allow on every visit**.
+Se te for pedido permissão para usar a webcam, clica em **Permitir ao visitar o site**.
 
-![A pop-up asking for permission to use the webcam, with an arrow pointing to 'Allow on every visit'.](images/allow-webcam.png)
+![Um pop-up a pedir permissão para usar a webcam, com uma seta a apontar para 'Permitir ao visitar o site'.](images/allow-webcam.png)
 
 \--- /task ---
 
-You should now see a version of Scratch with special `Face Sensing`{:class="block3extensions"} blocks. The view from your webcam will also be displayed on the Stage.
+Deves ver agora uma versão do Scratch com os blocos especiais `Detecção de Rosto` {:class="block3extensions"}. A visualização da tua webcam será também exibida no Palco.
 
-![A version of the Scratch software with green 'Face Sensing' blocks.](images/scratch-special.png)
+![Uma versão do software Scratch com blocos verdes 'Detecção de Rosto'.](images/scratch-special.png)

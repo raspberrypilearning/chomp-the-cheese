@@ -6,25 +6,25 @@
   </div>
 </html>
 
-Make your cheesy puffs move randomly around the screen.
+Faz os teus aperitivos de queijo moverem-se aleatoriamente pela tela.
 
 \--- task ---
 
-Delete the **cat** sprite.
+Apaga o ator **gato**.
 
 \--- /task ---
 
 \--- task ---
 
-Add a new sprite. You can choose an existing sprite, upload an image, or even paint your own sprite! We chose the **Cheesy Puffs** sprite.
+Adiciona um novo ator. Podes escolher um ator que já existe, carregar uma imagem ou até pintar o teu próprio ator! Nós escolhemos o ator **Cheesy Puffs**.
 
-![The 'Choose a Sprite' menu, with the 'Choose a Sprite' option highlighted.](images/choose-sprite.png)
+![O menu 'Escolher um actor', com a opção de 'Escolher um actor' destacada.](images/choose-sprite.png)
 
 \--- /task ---
 
 \--- task ---
 
-Add some code to make the sprite move to random positions around the screen:
+Adiciona algum código para fazer com que o ator se movimente para posições aleatórias na tela:
 
 ```blocks3
 when flag clicked
@@ -36,6 +36,6 @@ glide (1) secs to (random position v)
 
 \--- task ---
 
-**Test:** Click on the green flag and check that your sprite moves randomly around the screen to different places.
+**Teste.** Clica na bandeira verde e verifica se o teu ator se move aleatoriamente pelo ecrã para sítios diferentes.
 
 \--- /task ---

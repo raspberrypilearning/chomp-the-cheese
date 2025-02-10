@@ -4,7 +4,7 @@ Usa as ferramentas de reconhecimento facial do Scratch Lab para criar um jogo de
 
 Vais precisar de uma **webcam** para completar o projeto.
 
-![Aa game in Scratch with a floating bowl of cheese puffs in front of a webcam image of a middle aged woman with her mouth open.](images/whatyouwillmake.png)
+![Um jogo de Scratch com uma tigela de aperitivos de queijo à frente de uma imagem de webcam com uma mulher de meia-idade com a boca aberta.](images/whatyouwillmake.png)
 
 ## --- collapse ---
 

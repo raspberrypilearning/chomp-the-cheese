@@ -10,7 +10,7 @@ Vais precisar de uma **webcam** para completar o projeto.
 
 ## title: Onde estão guardadas as minhas imagens?
 
-- Este projeto usa uma tecnologia chamada 'machine learning'. Os sistemas de machine learning são treinados com uma grande quantidade de dados. The machine learning system used in this project has already been trained using a large number of photos, and your images will not be used to train it.
+- Este projeto usa uma tecnologia chamada 'machine learning'. Os sistemas de machine learning são treinados com uma grande quantidade de dados. O sistema de machine learning que é usado neste projeto já foi treinado com um grande número de fotos, e as tuas imagens não serão precisas para treiná-lo.
 - Nenhuma imagem da tua webcam é enviada para este site ou qualquer outro.
 
 \--- /collapse ---

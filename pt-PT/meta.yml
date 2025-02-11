@@ -9,11 +9,11 @@ steps:
   - 
     title: O que vais fazer
   - 
-    title: Preparar o modelo
+    title: Cria o teu projeto
     completion:
       - engaged
   - 
-    title: Mover o queijo
+    title: Move o queijo
   - 
     title: Come o queijo
     completion:

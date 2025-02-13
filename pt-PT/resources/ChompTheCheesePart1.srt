@@ -1,0 +1,8 @@
+1
+00:00:05,880 --> 00:00:11,680
+Abre o Scratch Lab e clica em 'Detecção de Rosto'.
+
+2
+00:00:11,680 --> 00:00:18,640
+Depois clica em 'Experimente'.
+

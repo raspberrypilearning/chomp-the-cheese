@@ -1,0 +1,22 @@
+---
+title: Come o queijo
+hero_image: images/banner.png
+description: Cria um jogo com reconhecimento facial onde tens que comer os aperitivos de queijo que se movem ao teu redor
+version: 1
+listed: true
+copyedit: false
+last_tested: "2024-07-02"
+steps:
+  - title: O que vais fazer
+  - title: Cria o teu projeto
+    completion:
+      - engaged
+  - title: Move o queijo
+  - title: Come o queijo
+    completion:
+      - internal
+  - title: Desafio
+    challenge: true
+  - title: O que se segue?
+    completion:
+      - externo

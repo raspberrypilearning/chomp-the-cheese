@@ -1,0 +1,8 @@
+1
+00:00:04,731 --> 00:00:09,291
+Usa um bloco de deteção de rosto para detetar quando o cheesy puffs tocar na tua boca.
+
+2
+00:00:09,624 --> 00:00:15,000
+Quando tocar, esconde-os, espera um pouco, e mostra-os de novo para recomeçar o jogo.
+

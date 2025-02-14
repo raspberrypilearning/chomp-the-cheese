@@ -1,0 +1,17 @@
+1
+00:00:04,760 --> 00:00:09,120
+Verwijder de kat en voeg je eigen sprite toe.
+
+2
+00:00:09,120 --> 00:00:11,920
+Wij kozen voor de chipito's (cheesy puffs)!
+
+3
+00:00:11,920 --> 00:00:19,760
+Sleep de codeblokken erin om de chipito's 
+willekeurig over het scherm te laten bewegen.
+
+4
+00:00:19,760 --> 00:00:26,600
+Druk op de groene vlag en kijk hoe ze rond vliegen.
+

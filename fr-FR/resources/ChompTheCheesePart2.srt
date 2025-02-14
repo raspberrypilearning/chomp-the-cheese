@@ -1,0 +1,16 @@
+1
+00:00:04,760 --> 00:00:09,120
+Supprime le chat et ajoute ton propre sprite.
+
+2
+00:00:09,120 --> 00:00:11,920
+On a choisi les chipitos !
+
+3
+00:00:11,920 --> 00:00:19,760
+Fais glisser les blocs de code pour que les chipitos se déplacent de manière aléatoire sur l'écran.
+
+4
+00:00:19,760 --> 00:00:26,600
+Appuie sur le drapeau vert et regarde-les partir.
+

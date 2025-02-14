@@ -1,0 +1,8 @@
+1
+00:00:04,731 --> 00:00:09,291
+Utilizza un blocco Face Sensing per rilevare quando i puff al formaggio toccano la tua bocca.
+
+2
+00:00:09,624 --> 00:00:15,000
+Quando succede, nascondili, aspetta un attimo e poi falli ricomparire per continuare il gioco.
+

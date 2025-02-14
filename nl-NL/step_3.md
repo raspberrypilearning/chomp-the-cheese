@@ -29,7 +29,7 @@ Voeg wat code toe om de sprite naar willekeurige posities op het scherm te laten
 ```blocks3
 when flag clicked
 forever
-glide (1) secs to (random position v)
+glide (1) secs to (willekeurige positie v)
 ```
 
 --- /task ---

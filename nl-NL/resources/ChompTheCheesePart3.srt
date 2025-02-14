@@ -1,0 +1,8 @@
+1
+00:00:04,731 --> 00:00:09,291
+Gebruik een gezichtsdetectieblok om te detecteren wanneer de chipito's jouw mond raken.
+
+2
+00:00:09,624 --> 00:00:15,000
+Als ze dat doen, verberg ze dan, wacht even en laat ze dan opnieuw zien om het spel opnieuw te starten.
+

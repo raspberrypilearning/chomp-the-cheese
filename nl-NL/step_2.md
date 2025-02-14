@@ -32,6 +32,6 @@ Als er toestemming wordt gevraagd om je webcam te gebruiken, klik dan op **Toest
 
 --- /task ---
 
-Je zou nu een versie van Scratch moeten zien met speciale `Face Sensing` (Gezichtsdetectie){:class="block3extensions"} blokken. De weergave van je webcam wordt ook weergegeven in het speelveld.
+Je zou nu een versie van Scratch moeten zien met speciale `Face Sensing`{:class="block3extensions"} (Gezichtsdetectie) blokken. De weergave van je webcam wordt ook weergegeven in het speelveld.
 
 ![Een versie van de Scratch software met groene blokken 'Gezichtsdetectie' blokken.](images/scratch-special.png)

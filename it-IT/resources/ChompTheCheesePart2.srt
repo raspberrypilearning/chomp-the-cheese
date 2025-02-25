@@ -1,17 +1,16 @@
 1
 00:00:04,760 --> 00:00:09,120
-Delete the cat and add your own sprite.
+Rimuovi il gatto e aggiungi il tuo sprite.
 
 2
 00:00:09,120 --> 00:00:11,920
-We chose the cheesy puffs!
+Scegliamo i puff al formaggio.
 
 3
 00:00:11,920 --> 00:00:19,760
-Drag in the code blocks to make the cheesy 
-puffs move randomly around the screen.
+Trascina i blocchi di codice per far muovere i puff in modo casuale sullo schermo.
 
 4
 00:00:19,760 --> 00:00:26,600
-Press the green flag and watch them go.
+Premi la bandierina verde e osserva come si muovono.
 

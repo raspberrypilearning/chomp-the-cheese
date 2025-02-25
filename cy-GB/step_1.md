@@ -19,6 +19,6 @@ Bydd angen **gwegamera** arnoch i gwblhau'r prosiect hwn.
 
 ## title: Dim YouTube? Lawrlwythwch y fideos!
 
-Gallwch [lawrlwytho'r holl fideos ar gyfer y prosiect hwn](https://rpf.io/p/en/chomp-the-cheese-go){:target = "_blank"}.
+Gallwch [lawrlwytho'r holl fideos ar gyfer y prosiect hwn](https://rpf.io/p/cy-GB/chomp-the-cheese-go){:target="_blank"}.
 
 \--- /collapse ---

@@ -12,7 +12,7 @@ Gwnewch i'r pwff cawslyd gael eu cnoi pan fyddant yn cyffwrdd â cheg y chwaraew
 
 Yn y côd ar gyfer y corlun **Pwff Cawslyd**, ychwanegwch floc o'r ddewislen blociau `Face Sensing`{:class="block3extensions"} i ganfod pan fydd y corlun yn cyffwrdd â cheg:
 
-![Bloc gwyrdd 'pan fydd y corlun hwn yn cyffwrdd â cheg' o'r ddewislen blociau 'Synhwyro Wyneb'.] (images/touches-mouth.png)
+![Bloc gwyrdd 'pan fydd y corlun hwn yn cyffwrdd â cheg' o'r ddewislen blociau 'Synhwyro Wyneb'.](images/touches-mouth.png)
 
 \--- /task ---
 

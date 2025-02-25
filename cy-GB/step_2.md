@@ -10,7 +10,7 @@ Mae'r prosiect hwn yn defnyddio fersiwn arbrofol arbennig o Scratch o'r enw Scra
 
 \--- task ---
 
-Agor [ Scratch Lab](https://lab.scratch.mit.edu/) {:target = "_blank"}.
+Agor [ Scratch Lab](https://lab.scratch.mit.edu/){:target="_blank"}.
 
 Cliciwch ar **Face Sensing**.
 
@@ -34,4 +34,4 @@ Os gofynnir i chi am ganiat√¢d i ddefnyddio'ch gwe-gamera, cliciwch ar **Caniat√
 
 Dylech nawr weld fersiwn o Scratch gyda blociau arbennig `Face Sensing`{:class="block3extensions"}. Bydd yr olygfa o'ch gwe-gamera hefyd yn cael ei harddangos ar y Llwyfan.
 
-![Fersiwn o'r meddalwedd Scratch gyda blociau gwyrdd 'Synhwyro Wyneb '.] (images/scratch-special.png)
+![Fersiwn o'r meddalwedd Scratch gyda blociau gwyrdd 'Synhwyro Wyneb'.](images/scratch-special.png)

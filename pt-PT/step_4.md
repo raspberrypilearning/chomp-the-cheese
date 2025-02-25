@@ -10,7 +10,7 @@ Faz com que os aperitivos de queijo sejam comidos quando tocarem na boca do joga
 
 \--- task ---
 
-No código do ator **Cheesey Puffs**, adiciona um bloco do menu de blocos `Detecção de Rosto`{:class="block3extensions"} para detetar quando um ator toca numa boca:
+No código do ator **Cheesy Puffs**, adiciona um bloco do menu de blocos `Detecção de Rosto`{:class="block3extensions"} para detetar quando um ator toca numa boca:
 
 ![O bloco verde 'when this sprite touches a mouth' do menu de blocos 'Detecção de Rosto'.](images/touches-mouth.png)
 

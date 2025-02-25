@@ -32,6 +32,6 @@ Se te for pedido permissão para usar a webcam, clica em **Permitir ao visitar o
 
 \--- /task ---
 
-Deves ver agora uma versão do Scratch com os blocos especiais `Detecção de Rosto` {:class="block3extensions"}. A visualização da tua webcam será também exibida no Palco.
+Deves ver agora uma versão do Scratch com os blocos especiais `Detecção de Rosto`{:class="block3extensions"}. A visualização da tua webcam será também exibida no Palco.
 
 ![Uma versão do software Scratch com blocos verdes 'Detecção de Rosto'.](images/scratch-special.png)

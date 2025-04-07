@@ -1,24 +1,24 @@
-## What you will make
+## Τι θα φτιάξεις
 
-Use the facial recognition tools in Scratch Lab to make a cheese chomping game you play with your mouth!
+Χρησιμοποίησε τα εργαλεία αναγνώρισης προσώπου στο Scratch Lab για να φτιάξεις ένα παιχνίδι που θα παίζεται με το στόμα σου για να δαγκώνεις τυρί!
 
-You will need a **webcam** to complete this project.
+Θα χρειαστείς μια **κάμερα web** για να ολοκληρώσεις αυτό το έργο.
 
-![Aa game in Scratch with a floating bowl of cheese puffs in front of a webcam image of a middle aged woman with her mouth open.](images/whatyouwillmake.png)
+![Ένα παιχνίδι στο Scratch με ένα αιωρούμενο μπολ με τα τυρογαριδάκια μπροστά από μια εικόνα κάμερας web μιας γυναίκας μέσης ηλικίας με το στόμα ανοιχτό.](images/whatyouwillmake.png)
 
 ## --- collapse ---
 
-## title: Where are my images stored?
+## title: Πού αποθηκεύονται οι εικόνες μου;
 
-- This project uses a technology called 'machine learning'. Machine learning systems are trained using a large amount of data﻿. The machine learning system used in this project has already been trained using a large number of photos, and your images will not be used to train it.
-- No images from your webcam are sent to this website or any other website.
+- Αυτό το έργο χρησιμοποιεί μια τεχνολογία που ονομάζεται «μηχανική μάθηση». Τα συστήματα μηχανικής μάθησης εκπαιδεύονται χρησιμοποιώντας μεγάλο όγκο δεδομένων. Το σύστημα μηχανικής εκμάθησης που χρησιμοποιείται σε αυτό το έργο έχει ήδη εκπαιδευτεί χρησιμοποιώντας μεγάλο αριθμό φωτογραφιών και οι εικόνες σου δεν θα χρησιμοποιηθούν για την εκπαίδευσή του.
+- Δεν αποστέλλονται εικόνες από την κάμερα web σε αυτόν τον ιστότοπο ή σε οποιονδήποτε άλλο ιστότοπο.
 
 \--- /collapse ---
 
 ## --- collapse ---
 
-## title: No YouTube? Download the videos!
+## title: Υπάρχει στο YouTube; Κάνε λήψη των βίντεο!
 
-You can [download all the videos for this project](https://rpf.io/p/en/chomp-the-cheese-go){:target="_blank"}.
+Μπορείς να [κατεβάσεις όλα τα βίντεο για αυτό το έργο](https://rpf.io/p/en/chomp-the-cheese-go){:target="_blank"}.
 
 \--- /collapse ---

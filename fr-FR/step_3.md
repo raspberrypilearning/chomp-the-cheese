@@ -39,3 +39,4 @@ glide (1) secs to (random position v)
 **Test :** clique sur le drapeau vert et vérifie que ton sprite se déplace aléatoirement sur l'écran à différents endroits.
 
 \--- /task ---
+

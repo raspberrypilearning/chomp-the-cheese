@@ -39,3 +39,4 @@ glide (1) secs to (random position v)
 **Test:** Klik op de groene vlag en controleer of je sprite willekeurig over het scherm naar verschillende plekken beweegt.
 
 \--- /task ---
+

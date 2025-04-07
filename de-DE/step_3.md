@@ -39,3 +39,4 @@ glide (1) secs to (random position v)
 **Test:** Click on the green flag and check that your sprite moves randomly around the screen to different places.
 
 \--- /task ---
+

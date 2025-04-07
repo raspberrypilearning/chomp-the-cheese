@@ -1,4 +1,4 @@
-## Chomp the cheese
+## Δάγκωσε το τυρί
 
 <html>
   <div style="position: relative; overflow: hidden; padding-top: 56.25%;">
@@ -6,19 +6,19 @@
   </div>
 </html>
 
-Make the cheesy puffs get chomped when they touch the player's mouth!
+Όταν τα τυρογαριδάκια αγγίξουν το στόμα του παίκτη, να τα δαγκώσει και να εξαφανιστούν!
 
 \--- task ---
 
-In the code for the **Cheesy Puffs** sprite, add a block from the `Face Sensing`{:class="block3extensions"} blocks menu to detect when the sprite touches a mouth:
+Στον κώδικα για το αντικείμενο **Cheesy Puffs**, πρόσθεσε ένα μπλοκ από το μενού μπλοκ "Face Sensing"{:class="block3extensions"} για να εντοπίσεις πότε το αντικείμενο αγγίζει ένα στόμα:
 
-![A green 'when this sprite touches a mouth' block from the 'Face Sensing' blocks menu.](images/touches-mouth.png)
+![Ένα πράσινο μπλοκ "when this sprite touches a mouth" από το μενού των μπλοκ "Face Sensing".](images/touches-mouth.png)
 
 \--- /task ---
 
 \--- task ---
 
-Add some code blocks under the `Face Sensing`{:class="block3extensions"} block to make the cheesy puffs disappear when they touch a mouth:
+Πρόσθεσε μερικά μπλοκ κώδικα κάτω από το μπλοκ `Face Sensing`{:class="block3extensions"} για να εξαφανιστούν τα τυρογαριδάκια όταν αγγίζουν ένα στόμα:
 
 ```blocks3
 hide
@@ -30,6 +30,7 @@ show
 
 \--- task ---
 
-Click on the green flag and have fun trying to catch the cheesy puffs with your mouth!
+Κάνε κλικ στην πράσινη σημαία και διασκέδασε προσπαθώντας να πιάσεις τα τυρογαριδάκια με το στόμα σου!
 
 \--- /task ---
+

@@ -1,22 +1,22 @@
-## Challenge
+## Πρόκληση
 
 \--- challenge ---
 
 \--- task ---
 
-Play a sound when the cheesy puffs touch the player's mouth.
+Παίξε έναν ήχο όταν τα τυρογαριδάκια αγγίζουν το στόμα του παίκτη.
 
 \--- /task ---
 
 \--- task ---
 
-Add a variable to keep track of how many cheesy puffs the player has eaten.
+Πρόσθεσε μια μεταβλητή για να παρακολουθείς πόσατυρογαριδάκια έχει φάει ο παίκτης.
 
 \--- /task ---
 
 \--- task ---
 
-Add another sprite that the player should avoid eating!
+Πρόσθεσε ένα άλλο αντικείμενο που ο παίκτης πρέπει να αποφεύγει να φάει!
 
 \--- /task ---
 

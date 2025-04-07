@@ -1,27 +1,27 @@
-title: Chomp the cheese
+title: Δάγκωσε το τυρί
 hero_image: images/banner.png
-description: Make a facial recognition game where you have to eat cheesy puffs that are moving around you
+description: Φτιάξε ένα παιχνίδι αναγνώρισης προσώπου όπου πρέπει να φας τα τυρογαριδάκια που κυκλοφορούν γύρω σου
 version: 1
 listed: true
 copyedit: false
 last_tested: "2024-07-02"
 steps:
   - 
-    title: What you will make
+    title: Τι θα φτιάξεις
   - 
-    title: Set up the project
+    title: Ρύθμιση του έργου
     completion:
       - engaged
   - 
-    title: Move the cheese
+    title: Μετακίνησε το τυρί
   - 
-    title: Chomp the cheese
+    title: Δάγκωσε το τυρί
     completion:
       - internal
   - 
-    title: Challenge
+    title: Πρόκληση
     challenge: true
   - 
-    title: What can you do now?
+    title: Τι μπορείς να κάνεις τώρα;
     completion:
       - external

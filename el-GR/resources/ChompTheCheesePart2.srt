@@ -1,17 +1,17 @@
 1
 00:00:04,760 --> 00:00:09,120
-Delete the cat and add your own sprite.
+Σβήσε τη γάτα και πρόσθεσε το δικό σου αντικείμενο.
 
 2
 00:00:09,120 --> 00:00:11,920
-We chose the cheesy puffs!
+Εμείς επιλέξαμε cheesy puffs (τυρογαριδάκια)!
 
 3
 00:00:11,920 --> 00:00:19,760
-Drag in the code blocks to make the cheesy 
-puffs move randomly around the screen.
+Σύρε τα μπλοκ με κώδικα για να κάνεις τα τυρογαριδάκια
+να κινούνται τυχαία στην οθόνη.
 
 4
 00:00:19,760 --> 00:00:26,600
-Press the green flag and watch them go.
+Πάτα την πράσινη σημαία και δες να κινούνται.
 

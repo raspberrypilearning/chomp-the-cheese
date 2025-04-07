@@ -39,3 +39,4 @@ glide (1) secs to (random position v)
 **Test:** fai clic sulla bandierina verde e verifica che il tuo sprite si muova in modo casuale in punti diversi dello schermo.
 
 \--- /task ---
+

@@ -1,8 +1,8 @@
 1
 00:00:04,731 --> 00:00:09,291
-Use a face sensing block to detect when the cheesy puffs touch your mouth.
+Χρησιμοποίησε ένα μπλοκ ανίχνευσης προσώπου για να ανιχνεύσεις πότε τα τυρογαριδάκια αγγίζουν το στόμα σου.
 
 2
 00:00:09,624 --> 00:00:15,000
-When they do, hide them, wait for a bit, then show again to restart the game.
+Όταν το κάνουν, κρύψτες, περίμενε λίγο και μετά εμφάνισέ τις ξανά για να γίνει επανεκκίνηση του παιχνιδιού.
 

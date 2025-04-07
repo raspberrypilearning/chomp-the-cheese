@@ -39,3 +39,4 @@ glide (1) secs to (random position v)
 **Teste.** Clica na bandeira verde e verifica se o teu ator se move aleatoriamente pelo ecrã para sítios diferentes.
 
 \--- /task ---
+

@@ -1,4 +1,4 @@
-## What you will make
+## Das wirst du machen
 
 Use the facial recognition tools in Scratch Lab to make a cheese chomping game you play with your mouth!
 
@@ -17,7 +17,7 @@ You will need a **webcam** to complete this project.
 
 ## --- collapse ---
 
-## title: No YouTube? Download the videos!
+## title: Kein YouTube? Video downloaden!
 
 You can [download all the videos for this project](https://rpf.io/p/en/chomp-the-cheese-go){:target="_blank"}.
 

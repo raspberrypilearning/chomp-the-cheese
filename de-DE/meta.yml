@@ -7,9 +7,9 @@ copyedit: false
 last_tested: "2024-07-02"
 steps:
   - 
-    title: What you will make
+    title: Das wirst du machen
   - 
-    title: Set up the project
+    title: Verwende ein vortrainiertes Modell
     completion:
       - engaged
   - 
@@ -19,9 +19,9 @@ steps:
     completion:
       - internal
   - 
-    title: Challenge
+    title: Herausforderung
     challenge: true
   - 
-    title: What can you do now?
+    title: Wie geht es weiter?
     completion:
       - external

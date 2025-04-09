@@ -1,0 +1,27 @@
+title: Chomp the cheese
+hero_image: images/banner.png
+description: Make a facial recognition game where you have to eat cheesy puffs that are moving around you
+version: 1
+listed: true
+copyedit: false
+last_tested: "2024-07-02"
+steps:
+  - 
+    title: परिचय
+  - 
+    title: एक पूर्व प्रशिक्षित मॉडल का उपयोग करें
+    completion:
+      - engaged
+  - 
+    title: Move the cheese
+  - 
+    title: Chomp the cheese
+    completion:
+      - internal
+  - 
+    title: चुनौती
+    challenge: true
+  - 
+    title: आगे क्या?
+    completion:
+      - external

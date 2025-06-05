@@ -19,6 +19,6 @@ You will need a **webcam** to complete this project.
 
 ## title: No YouTube? Download the videos!
 
-You can [download all the videos for this project](https://rpf.io/p/en/chomp-the-cheese-go){:target="_blank"}.
+Możesz [pobrać wszystkie filmy dotyczące tego projektu](https://rpf.io/p/en/chomp-the-cheese-go){:target="_blank"}.
 
 \--- /collapse ---

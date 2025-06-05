@@ -36,7 +36,7 @@ glide (1) secs to (random position v)
 
 \--- task ---
 
-**Test:** Click on the green flag and check that your sprite moves randomly around the screen to different places.
+**Test:** Kliknij zieloną flagę i sprawdź, czy Twój duszek losowo porusza się po ekranie w różne miejsca.
 
 \--- /task ---
 

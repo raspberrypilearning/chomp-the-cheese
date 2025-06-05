@@ -1,0 +1,27 @@
+title: チーズを噛む
+hero_image: images/banner.png
+description: あなたの周りを動くチーズ パフを食べる顔認識ゲームを作ります
+version: 1
+listed: true
+copyedit: false
+last_tested: "2024-07-02"
+steps:
+  - 
+    title: はじめに
+  - 
+    title: プロジェクトの設定
+    completion:
+      - engaged
+  - 
+    title: チーズを移動する
+  - 
+    title: チーズを噛む
+    completion:
+      - internal
+  - 
+    title: チャレンジ
+    challenge: true
+  - 
+    title: 次は何をしましょうか？
+    completion:
+      - external

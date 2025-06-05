@@ -13,5 +13,5 @@ puffs move randomly around the screen.
 
 4
 00:00:19,760 --> 00:00:26,600
-Press the green flag and watch them go.
+Naciśnij zieloną flagę i obserwuj.
 

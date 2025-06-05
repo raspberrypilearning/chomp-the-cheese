@@ -1,4 +1,4 @@
-## Set up the project
+## Configurar el proyecto
 
 <html>
   <div style="position: relative; overflow: hidden; padding-top: 56.25%;">
@@ -6,32 +6,32 @@
   </div>
 </html>
 
-This project uses a special experimental version of Scratch called Scratch Lab, which has some extra features.
+Este proyecto utiliza una versión experimental especial de Scratch llamada Scratch Lab, que tiene algunas características adicionales.
 
 \--- task ---
 
-Open [Scratch Lab](https://lab.scratch.mit.edu/){:target="_blank"}.
+Abre [Scratch Lab](https://lab.scratch.mit.edu/){:target="_blank"}.
 
-Click on **Face Sensing**.
+Haz clic en **Detección facial**.
 
-![The Scratch Lab website with an arrow pointing to 'Face Sensing'.](images/facial-recognition.png)
+![El sitio web de Scratch Lab con una flecha que apunta a 'Detección facial'.](images/facial-recognition.png)
 
 \--- /task ---
 
 \--- task ---
 
-Click the **Try it out** button.
+Haz clic en el botón **Pruébalo**.
 
 \--- /task ---
 
 \--- task ---
 
-If you are asked for permission to use your webcam, click on **Allow on every visit**.
+Si se te pide permiso para usar tu cámara web, haz clic en **Permitir en cada visita**.
 
-![A pop-up asking for permission to use the webcam, with an arrow pointing to 'Allow on every visit'.](images/allow-webcam.png)
+![Una ventana emergente pidiendo permiso para usar la cámara web, con una flecha que apunta a 'Permitir en cada visita'.](images/allow-webcam.png)
 
 \--- /task ---
 
-You should now see a version of Scratch with special `Face Sensing`{:class="block3extensions"} blocks. The view from your webcam will also be displayed on the Stage.
+Ahora deberías ver una versión de Scratch con bloques especiales `Face Sensing`{:class="block3extensions"}. La vista de tu cámara web también se mostrará en el escenario.
 
-![A version of the Scratch software with green 'Face Sensing' blocks.](images/scratch-special.png)
+![Una versión del software de Scratch con bloques verdes 'Face Sensing'.](images/scratch-special.png)

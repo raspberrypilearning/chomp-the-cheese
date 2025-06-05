@@ -1,6 +1,6 @@
-title: Chomp the cheese
+title: Mastica el queso
 hero_image: images/banner.png
-description: Make a facial recognition game where you have to eat cheesy puffs that are moving around you
+description: Crea un juego de reconocimiento facial en el que tengas que comer bocaditos de queso que se mueven a tu alrededor
 version: 1
 listed: true
 copyedit: false
@@ -9,13 +9,13 @@ steps:
   - 
     title: Lo que harás
   - 
-    title: Set up the project
+    title: Configurar el proyecto
     completion:
       - engaged
   - 
-    title: Move the cheese
+    title: Mueve el queso
   - 
-    title: Chomp the cheese
+    title: Mastica el queso
     completion:
       - internal
   - 

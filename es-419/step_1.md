@@ -1,24 +1,24 @@
 ## Lo que harás
 
-Use the facial recognition tools in Scratch Lab to make a cheese chomping game you play with your mouth!
+¡Usa las herramientas de reconocimiento facial en Scratch Lab para crear un juego de masticar queso que juegues con tu boca!
 
-You will need a **webcam** to complete this project.
+Necesitarás una **cámara web** para completar este proyecto.
 
-![Aa game in Scratch with a floating bowl of cheese puffs in front of a webcam image of a middle aged woman with her mouth open.](images/whatyouwillmake.png)
+![Aa juego en Scratch con un tazón flotante de puffs de queso delante de una imagen de una mujer de mediana edad con la boca abierta. (images/whatyouwillmake.png)
 
 ## --- collapse ---
 
-## title: Where are my images stored?
+## título: ¿Dónde se almacenan mis imágenes?
 
-- This project uses a technology called 'machine learning'. Machine learning systems are trained using a large amount of data﻿. The machine learning system used in this project has already been trained using a large number of photos, and your images will not be used to train it.
-- No images from your webcam are sent to this website or any other website.
+- Este proyecto utiliza una tecnología llamada “Machine Learning”. Los sistemas de Machine Learning son entrenados usando una gran cantidad de datos. El sistema de Machine Learning utilizado en este proyecto ya ha sido entrenado utilizando un gran número de fotos, y tus imágenes no se utilizarán para entrenarlo.
+- No se envían imágenes de tu cámara web a este sitio web ni a ningún otro sitio web.
 
 \--- /collapse ---
 
 ## --- collapse ---
 
-## title: No YouTube? Download the videos!
+## título: ¿No tienes YouTube? ¡Descarga los vídeos!
 
-You can [download all the videos for this project](https://rpf.io/p/en/chomp-the-cheese-go){:target="_blank"}.
+Puedes [descargar todos los vídeos de este proyecto](https://rpf.io/p/en/chomp-the-cheese-go){:target="_blank"}.
 
 \--- /collapse ---

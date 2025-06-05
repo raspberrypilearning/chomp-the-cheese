@@ -1,4 +1,4 @@
-## Set up the project
+## Skonfiguruj projekt
 
 <html>
   <div style="position: relative; overflow: hidden; padding-top: 56.25%;">
@@ -34,4 +34,4 @@ If you are asked for permission to use your webcam, click on **Allow on every vi
 
 You should now see a version of Scratch with special `Face Sensing`{:class="block3extensions"} blocks. The view from your webcam will also be displayed on the Stage.
 
-![A version of the Scratch software with green 'Face Sensing' blocks.](images/scratch-special.png)
+![Wersja oprogramowania Scratch z zielonymi blokami „Face Sensing”.](images/scratch-special.png)

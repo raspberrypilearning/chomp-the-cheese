@@ -1,8 +1,8 @@
 1
 00:00:04,731 --> 00:00:09,291
-Use a face sensing block to detect when the cheesy puffs touch your mouth.
+Usa un bloque de detección facial para detectar cuando los puffs de queso toquen tu boca.
 
 2
 00:00:09,624 --> 00:00:15,000
-When they do, hide them, wait for a bit, then show again to restart the game.
+Cuando lo hagan, ocúltalos, espera un momento y luego vuelve a mostrarlos para reiniciar el juego.
 

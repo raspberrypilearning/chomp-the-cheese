@@ -1,4 +1,4 @@
-## Move the cheese
+## Mueve el queso
 
 <html>
   <div style="position: relative; overflow: hidden; padding-top: 56.25%;">
@@ -6,25 +6,25 @@
   </div>
 </html>
 
-Make your cheesy puffs move randomly around the screen.
+Haz que tus puffs de queso se muevan aleatoriamente alrededor de la pantalla.
 
 \--- task ---
 
-Delete the **cat** sprite.
+Elimina el objeto **gato**.
 
 \--- /task ---
 
 \--- task ---
 
-Add a new sprite. You can choose an existing sprite, upload an image, or even paint your own sprite! We chose the **Cheesy Puffs** sprite.
+Añade un objeto. ¡Puedes elegir un sprite existente, cargar una imagen o incluso pintar tu propio sprite! Elegimos el sprite **Cheesy Puffs**.
 
-![The 'Choose a Sprite' menu, with the 'Choose a Sprite' option highlighted.](images/choose-sprite.png)
+![El menú 'Elegir un Sprite', con la opción 'Elegir un Sprite' resaltada.](images/choose-sprite.png)
 
 \--- /task ---
 
 \--- task ---
 
-Add some code to make the sprite move to random positions around the screen:
+Agrega algo de código para hacer que el objeto se mueva a posiciones aleatorias alrededor de la pantalla:
 
 ```blocks3
 when flag clicked
@@ -36,7 +36,7 @@ glide (1) secs to (random position v)
 
 \--- task ---
 
-**Test:** Click on the green flag and check that your sprite moves randomly around the screen to different places.
+**Pruebas:** Haz clic en la bandera verde y comprueba que tu objeto se mueva aleatoriamente alrededor de la pantalla a diferentes lugares.
 
 \--- /task ---
 

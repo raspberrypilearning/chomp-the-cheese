@@ -32,6 +32,6 @@
 
 --- /task ---
 
-特別な「顔認識」{:class="block3extensions"}ブロックを使った Scratch のバージョンが表示されるはずです。 ステージにはウェブカメラからの映像も表示されます。
+特別な`顔認識`{:class="block3extensions"}ブロックを使った Scratch のバージョンが表示されるはずです。 ステージにはウェブカメラからの映像も表示されます。
 
 ![緑色の「顔認識」ブロックが付いた Scratch ソフトウェアのバージョン。](images/scratch-special.png)

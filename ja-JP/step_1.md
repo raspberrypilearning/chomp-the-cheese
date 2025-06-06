@@ -21,6 +21,6 @@ title: 画像はどこに保存されますか？
 title: YouTube はありませんか？ 動画をダウンロードしましょう！
 ---
 
-[このプロジェクトのすべてのビデオをダウンロード] (https://rpf.io/p/ja-JP/chomp-the-cheese-go){:target="_blank"} できます。
+[このプロジェクトのすべてのビデオをダウンロード](https://rpf.io/p/ja-JP/chomp-the-cheese-go){:target="_blank"} できます。
 
 --- /collapse ---

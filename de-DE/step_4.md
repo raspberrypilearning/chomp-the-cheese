@@ -1,4 +1,4 @@
-## Chomp the cheese
+## Mampfe den Käse
 
 <html>
   <div style="position: relative; overflow: hidden; padding-top: 56.25%;">
@@ -6,19 +6,19 @@
   </div>
 </html>
 
-Make the cheesy puffs get chomped when they touch the player's mouth!
+Mache, dass die Käseflips gemampft werden, wenn sie den Mund des Spielers berühren!
 
 \--- task ---
 
-In the code for the **Cheesy Puffs** sprite, add a block from the `Face Sensing`{:class="block3extensions"} blocks menu to detect when the sprite touches a mouth:
+Füge im Code für die Figur **Cheesy Puffs** einen Baustein aus dem Blockmenü `Gesichtserkennung`{:class="block3extensions"} hinzu, um zu erkennen, wenn die Figur einen Mund berührt:
 
-![A green 'when this sprite touches a mouth' block from the 'Face Sensing' blocks menu.](images/touches-mouth.png)
+![Ein grüner Block „Wenn diese Figur einen Mund berührt“ aus dem Blockmenü „Gesichtserkennung“.](images/touches-mouth.png)
 
 \--- /task ---
 
 \--- task ---
 
-Add some code blocks under the `Face Sensing`{:class="block3extensions"} block to make the cheesy puffs disappear when they touch a mouth:
+Füge unter dem Block „Gesichtserkennung“ {:class="block3extensions"} einige Codeblöcke hinzu, damit die Käseflips verschwinden, wenn sie einen Mund berühren:
 
 ```blocks3
 hide
@@ -30,7 +30,7 @@ show
 
 \--- task ---
 
-Click on the green flag and have fun trying to catch the cheesy puffs with your mouth!
+Klicke auf die grüne Flagge und viel Spaß beim Versuch, die Käseflips mit deinem Mund zu fangen!
 
 \--- /task ---
 

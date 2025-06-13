@@ -4,19 +4,19 @@
 
 \--- task ---
 
-Play a sound when the cheesy puffs touch the player's mouth.
+Spiele einen Ton ab, wenn die Käseflips den Mund des Spielers berühren.
 
 \--- /task ---
 
 \--- task ---
 
-Add a variable to keep track of how many cheesy puffs the player has eaten.
+Füge eine Variable hinzu, um zu verfolgen, wie viele Käseflips der Spieler gegessen hat.
 
 \--- /task ---
 
 \--- task ---
 
-Add another sprite that the player should avoid eating!
+Füge eine weitere Figur hinzu, die der Spieler nicht essen sollte!
 
 \--- /task ---
 

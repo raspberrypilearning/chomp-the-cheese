@@ -4,7 +4,7 @@ Use the facial recognition tools in Scratch Lab to make a cheese chomping game y
 
 You will need a **webcam** to complete this project.
 
-![Aa game in Scratch with a floating bowl of cheese puffs in front of a webcam image of a middle aged woman with her mouth open.](images/whatyouwillmake.png)
+![A game in Scratch with a floating bowl of cheese puffs in front of a webcam image of a middle aged woman with her mouth open.](images/whatyouwillmake.png)
 
 --- collapse ---
 ---

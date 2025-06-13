@@ -4,7 +4,7 @@ Verwende die Gesichtserkennungstools in Scratch Lab, um ein Käse-Mampfspiel zu 
 
 Du brauchst eine **Webcam**, um dieses Projekt abzuschließen.
 
-![A game in Scratch with a floating bowl of cheese puffs in front of a webcam image of a middle aged woman with her mouth open.](images/whatyouwillmake.png)
+![Ein Spiel in Scratch mit einer fliegenden Schüssel voller Käseflips vor dem Webcam-Bild einer Frau mittleren Alters mit offenem Mund.](images/whatyouwillmake.png)
 
 ## --- collapse ---
 

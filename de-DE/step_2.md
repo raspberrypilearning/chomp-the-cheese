@@ -32,6 +32,6 @@ Wenn du um die Erlaubnis zur Verwendung deiner Webcam gebeten wirst, klicke auf 
 
 \--- /task ---
 
-Du solltest jetzt eine Version von Scratch mit speziellen `Gesichtserkennung`{:class="block3extensions"} Blöcken sehen. Die Ansicht deiner Webcam wird auch auf der Szene angezeigt.
+Du solltest jetzt eine Version von Scratch mit speziellen `Gesichtserkennung`{:class="block3extensions"} Blöcken sehen. Die Ansicht deiner Webcam wird auch auf der Bühne angezeigt.
 
 ![Eine Version der Scratch Software mit grünen 'Gesichtserkennung'-Blöcken.](images/scratch-special.png)

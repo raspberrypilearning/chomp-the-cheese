@@ -1,8 +1,8 @@
 1
 00:00:04,731 --> 00:00:09,291
-Use a face sensing block to detect when the cheesy puffs touch your mouth.
+Benutze einen Gesichtserkennungs-Block, um zu erkennen, wann die Käseflips deinen Mund berühren.
 
 2
 00:00:09,624 --> 00:00:15,000
-When they do, hide them, wait for a bit, then show again to restart the game.
+Wenn sie das tun, verstecke sie, warte kurz und zeige sie dann wieder, um das Spiel neu zu starten.
 

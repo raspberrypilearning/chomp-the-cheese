@@ -1,6 +1,6 @@
-title: Chomp the cheese
+title: Mampfe den Käse
 hero_image: images/banner.png
-description: Make a facial recognition game where you have to eat cheesy puffs that are moving around you
+description: Erstelle ein Gesichtserkennungs-Spiel, bei dem du Käseflips essen musst, die sich um dich herum bewegen
 version: 1
 listed: true
 copyedit: false
@@ -9,13 +9,13 @@ steps:
   - 
     title: Das wirst du machen
   - 
-    title: Verwende ein vortrainiertes Modell
+    title: Projekt einrichten
     completion:
       - engaged
   - 
-    title: Move the cheese
+    title: Bewege den Käse
   - 
-    title: Chomp the cheese
+    title: Mampfe den Käse
     completion:
       - internal
   - 

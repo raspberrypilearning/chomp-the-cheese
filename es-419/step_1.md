@@ -4,7 +4,7 @@
 
 Necesitarás una **cámara web** para completar este proyecto.
 
-![Aa juego en Scratch con un tazón flotante de puffs de queso delante de una imagen de una mujer de mediana edad con la boca abierta. (images/whatyouwillmake.png)
+![A game in Scratch with a floating bowl of cheese puffs in front of a webcam image of a middle aged woman with her mouth open.](images/whatyouwillmake.png)
 
 ## --- collapse ---
 

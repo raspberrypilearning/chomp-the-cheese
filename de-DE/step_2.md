@@ -1,4 +1,4 @@
-## Verwende ein vortrainiertes Modell
+## Projekt einrichten
 
 <html>
   <div style="position: relative; overflow: hidden; padding-top: 56.25%;">
@@ -6,32 +6,32 @@
   </div>
 </html>
 
-This project uses a special experimental version of Scratch called Scratch Lab, which has some extra features.
+Dieses Projekt verwendet eine spezielle experimentelle Version von Scratch namens Scratch Lab, die über einige zusätzliche Funktionen verfügt.
 
 \--- task ---
 
-Open [Scratch Lab](https://lab.scratch.mit.edu/){:target="_blank"}.
+Öffne [Scratch Lab](https://lab.scratch.mit.edu/){:target="_blank"}.
 
-Click on **Face Sensing**.
+Klicke auf **Gesichtserkennung**.
 
-![The Scratch Lab website with an arrow pointing to 'Face Sensing'.](images/facial-recognition.png)
+![Die Scratch Lab-Website mit einem Pfeil, der auf „Gesichtserkennung“ zeigt.](images/facial-recognition.png)
 
 \--- /task ---
 
 \--- task ---
 
-Click the **Try it out** button.
+Klicke auf den Button **Ausprobieren**.
 
 \--- /task ---
 
 \--- task ---
 
-If you are asked for permission to use your webcam, click on **Allow on every visit**.
+Wenn du um die Erlaubnis zur Verwendung deiner Webcam gebeten wirst, klicke auf **Beim Besuch der Webseite zulassen**.
 
-![A pop-up asking for permission to use the webcam, with an arrow pointing to 'Allow on every visit'.](images/allow-webcam.png)
+![Ein Popup, das um Erlaubnis zur Verwendung der Webcam bittet, mit einem Pfeil, der auf „Beim Besuch der Webseite zulassen“ zeigt.](images/allow-webcam.png)
 
 \--- /task ---
 
-You should now see a version of Scratch with special `Face Sensing`{:class="block3extensions"} blocks. The view from your webcam will also be displayed on the Stage.
+Du solltest jetzt eine Version von Scratch mit speziellen `Gesichtserkennung`{:class="block3extensions"} Blöcken sehen. Die Ansicht deiner Webcam wird auch auf der Szene angezeigt.
 
-![A version of the Scratch software with green 'Face Sensing' blocks.](images/scratch-special.png)
+![Eine Version der Scratch Software mit grünen 'Gesichtserkennung'-Blöcken.](images/scratch-special.png)

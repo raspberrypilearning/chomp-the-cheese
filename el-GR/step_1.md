@@ -4,7 +4,7 @@
 
 Θα χρειαστείς μια **κάμερα web** για να ολοκληρώσεις αυτό το έργο.
 
-![Ένα παιχνίδι στο Scratch με ένα αιωρούμενο μπολ με τα τυρογαριδάκια μπροστά από μια εικόνα κάμερας web μιας γυναίκας μέσης ηλικίας με το στόμα ανοιχτό.](images/whatyouwillmake.png)
+![A game in Scratch with a floating bowl of cheese puffs in front of a webcam image of a middle aged woman with her mouth open.](images/whatyouwillmake.png)
 
 ## --- collapse ---
 

@@ -16,7 +16,7 @@ Lösche die **Katzen**-Figur.
 
 \--- task ---
 
-Füge eine neue Figur hinzu. Du kannst eine vorhandene Figur auswählen, ein Bild hochladen oder sogar deine eigene Figur malen! Wir haben die Figur **Cheesy Puffs** gewählt.
+Füge eine neue Figur hinzu. Du kannst eine vorhandene Figur auswählen, ein Bild hochladen oder sogar deine eigene Figur malen! Wir haben die Figur **Cheesy Puffs** (Käseflips) gewählt.
 
 ![Das Menü „Figur wählen“ mit hervorgehobener Option „Figur wählen“.](images/choose-sprite.png)
 

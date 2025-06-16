@@ -12,9 +12,9 @@ Dieses Projekt verwendet eine spezielle experimentelle Version von Scratch namen
 
 Öffne [Scratch Lab](https://lab.scratch.mit.edu/){:target="_blank"}.
 
-Klicke auf **Gesichtserkennung**.
+Klicke auf **Face Sensing** (Gesichtserkennung).
 
-![Die Scratch Lab-Website mit einem Pfeil, der auf „Gesichtserkennung“ zeigt.](images/facial-recognition.png)
+![Die Scratch Lab-Website mit einem Pfeil, der auf „Face Sensing“ zeigt.](images/facial-recognition.png)
 
 \--- /task ---
 

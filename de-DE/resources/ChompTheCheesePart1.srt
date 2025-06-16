@@ -1,8 +1,8 @@
 1
 00:00:05,880 --> 00:00:11,680
-Öffne Scratch Lab und klicke auf „Gesichtserkennung“.
+Öffne Scratch Lab und klicke auf „Face Sensing“ (Gesichtserkennung).
 
 2
 00:00:11,680 --> 00:00:18,640
-Klicke anschließend auf „Ausprobieren“.
+Klicke anschließend auf „Try it out“ (Ausprobieren).
 

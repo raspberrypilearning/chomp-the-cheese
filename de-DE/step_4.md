@@ -10,15 +10,15 @@ Mache, dass die Käseflips gemampft werden, wenn sie den Mund des Spielers berü
 
 \--- task ---
 
-Füge im Code für die Figur **Cheesy Puffs** einen Baustein aus dem Blockmenü `Gesichtserkennung`{:class="block3extensions"} hinzu, um zu erkennen, wenn die Figur einen Mund berührt:
+Füge im Code für die Figur **Cheesy Puffs** einen Baustein aus dem Blockmenü `Face Sensing`{:class="block3extensions"} hinzu, um zu erkennen, wenn die Figur einen Mund berührt:
 
-![Ein grüner Block „Wenn diese Figur einen Mund berührt“ aus dem Blockmenü „Gesichtserkennung“.](images/touches-mouth.png)
+![Ein grüner Block „Wenn diese Figur einen Mund berührt“ aus dem Blockmenü „Face Sensing“.](images/touches-mouth.png)
 
 \--- /task ---
 
 \--- task ---
 
-Füge unter dem Block „Gesichtserkennung“ {:class="block3extensions"} einige Codeblöcke hinzu, damit die Käseflips verschwinden, wenn sie einen Mund berühren:
+Füge unter dem „Face Sensing“-Block {:class="block3extensions"} einige Codeblöcke hinzu, damit die Käseflips verschwinden, wenn sie einen Mund berühren:
 
 ```blocks3
 hide

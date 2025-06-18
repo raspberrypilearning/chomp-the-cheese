@@ -1,0 +1,22 @@
+---
+title: Nhai miếng phô mai
+hero_image: images/banner.png
+description: Tạo một trò chơi nhận dạng khuôn mặt, trong đó bạn phải ăn những chiếc bánh phồng phô mai đang di chuyển xung quanh bạn
+version: 1
+listed: true
+copyedit: false
+last_tested: "2024-07-02"
+steps:
+  - title: Những gì bạn sẽ làm
+  - title: Thiết lập dự án
+    completion:
+      - engaged
+  - title: Di chuyển phô mai
+  - title: Nhai miếng phô mai
+    completion:
+      - internal
+  - title: Thử thách
+    challenge: true
+  - title: Bạn có thể làm gì bây giờ?
+    completion:
+      - external

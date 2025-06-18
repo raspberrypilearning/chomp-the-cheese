@@ -1,0 +1,16 @@
+1
+00:00:04,760 --> 00:00:09,120
+Xóa con mèo và thêm hình ảnh của riêng bạn.
+
+2
+00:00:09,120 --> 00:00:11,920
+Chúng tôi đã chọn bánh nhân phô mai!
+
+3
+00:00:11,920 --> 00:00:19,760
+Kéo các khối mã để làm cho những chiếc bánh phô mai di chuyển ngẫu nhiên xung quanh màn hình.
+
+4
+00:00:19,760 --> 00:00:26,600
+Nhấn cờ xanh và xem chúng đi.
+

@@ -1,0 +1,8 @@
+1
+00:00:04,731 --> 00:00:09,291
+Sử dụng khối cảm biến khuôn mặt để phát hiện thời điểm những miếng bánh phô mai phồng chạm vào miệng bạn.
+
+2
+00:00:09,624 --> 00:00:15,000
+Khi đó, hãy ẩn chúng đi, đợi một lát rồi hiển thị lại để khởi động lại trò chơi.
+

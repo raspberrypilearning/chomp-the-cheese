@@ -4,7 +4,7 @@ Sử dụng công cụ nhận dạng khuôn mặt trong Scratch Lab để tạo 
 
 Bạn sẽ cần một **webcam** để hoàn thành dự án này.
 
-![A game in Scratch with a floating bowl of cheese puffs in front of a webcam image of a middle aged woman with her mouth open.](images/whatyouwillmake.png)
+![Một trò chơi trong Scratch với một bát bánh phồng phô mai nổi trước hình ảnh webcam của một người phụ nữ trung niên đang há miệng.](images/whatyouwillmake.png)
 
 ## --- collapse ---
 

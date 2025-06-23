@@ -1,0 +1,22 @@
+---
+title: Mampfe den Käse
+hero_image: images/banner.png
+description: Erstelle ein Gesichtserkennungs-Spiel, bei dem du Käseflips essen musst, die sich um dich herum bewegen
+version: 1
+listed: true
+copyedit: false
+last_tested: "2024-07-02"
+steps:
+  - title: Das wirst du machen
+  - title: Projekt einrichten
+    completion:
+    - engaged
+  - title: Bewege den Käse
+  - title: Mampfe den Käse
+    completion:
+    - internal
+  - title: Herausforderung
+    challenge: true
+  - title: Wie geht es weiter?
+    completion:
+    - external

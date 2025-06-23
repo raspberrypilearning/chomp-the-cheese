@@ -1,0 +1,8 @@
+1
+00:00:04,731 --> 00:00:09,291
+Benutze einen Gesichtserkennungs-Block, um zu erkennen, wann die Käseflips deinen Mund berühren.
+
+2
+00:00:09,624 --> 00:00:15,000
+Wenn sie das tun, verstecke sie, warte kurz und zeige sie dann wieder, um das Spiel neu zu starten.
+

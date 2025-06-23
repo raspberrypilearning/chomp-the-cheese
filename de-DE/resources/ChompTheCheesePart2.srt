@@ -1,0 +1,16 @@
+1
+00:00:04,760 --> 00:00:09,120
+Lösche die Katze und füge deine eigene Figur hinzu.
+
+2
+00:00:09,120 --> 00:00:11,920
+Wir haben die Käseflips gewählt!
+
+3
+00:00:11,920 --> 00:00:19,760
+Ziehe die Code-Blöcke hinein, damit sich die Käseflips in alle Richtungen auf dem Bildschirm bewegen.
+
+4
+00:00:19,760 --> 00:00:26,600
+Drücke auf die grüne Flagge und schaue zu, wie sie loslaufen.
+

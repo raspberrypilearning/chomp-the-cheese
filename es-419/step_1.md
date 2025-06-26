@@ -10,7 +10,7 @@ Necesitarás una **cámara web** para completar este proyecto.
 
 ## título: ¿Dónde se almacenan mis imágenes?
 
-- Este proyecto utiliza una tecnología llamada “Machine Learning”. Los sistemas de Machine Learning son entrenados usando una gran cantidad de datos. El sistema de Machine Learning utilizado en este proyecto ya ha sido entrenado utilizando un gran número de fotos, y tus imágenes no se utilizarán para entrenarlo.
+- Este proyecto utiliza una tecnología llamada “Machine Learning”. Los sistemas de Machine Learning se entrenan usando una gran cantidad de datos. El sistema de Machine Learning que utilizamos en este proyecto ya ha sido entrenado utilizando un gran número de fotos, y tus imágenes no se utilizarán para entrenarlo.
 - No se envían imágenes de tu cámara web a este sitio web ni a ningún otro sitio web.
 
 \--- /collapse ---

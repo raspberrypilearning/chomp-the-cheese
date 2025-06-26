@@ -1,0 +1,17 @@
+1
+00:00:04,760 --> 00:00:09,120
+Borra el gato y añade tu propio objeto.
+
+2
+00:00:09,120 --> 00:00:11,920
+¡Elegimos los puffs de queso!
+
+3
+00:00:11,920 --> 00:00:19,760
+Arrastra los bloques de código para hacer que los puffs de queso 
+se muevan aleatoriamente alrededor de la pantalla.
+
+4
+00:00:19,760 --> 00:00:26,600
+Presiona la bandera verde y miralos moverse.
+

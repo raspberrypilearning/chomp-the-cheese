@@ -1,0 +1,22 @@
+---
+title: Mastica el queso
+hero_image: images/banner.png
+description: Crea un juego de reconocimiento facial en el que tengas que comer bocaditos de queso que se mueven a tu alrededor
+version: 1
+listed: true
+copyedit: false
+last_tested: "2024-07-02"
+steps:
+  - title: Lo que harás
+  - title: Configurar el proyecto
+    completion:
+      - engaged
+  - title: Mueve el queso
+  - title: Mastica el queso
+    completion:
+      - internal
+  - title: Desafío
+    challenge: true
+  - title: '¿Qué puedes hacer ahora?'
+    completion:
+      - external

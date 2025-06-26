@@ -12,7 +12,7 @@
 
 En el código del sprite **Cheesy Puffs**, agrega un bloque del menú de bloques `Detección facial`{:class="block3extensions"} para detectar cuándo el sprite toca una boca:
 
-![Un bloque verde 'cuando este sprite toca una boca' del menú de bloques 'Detección de rostro'.](images/touches-mouth.png)
+![Un bloque verde 'cuando este sprite toca una boca' del menú de bloques 'Detección facial'.](images/touches-mouth.png)
 
 \--- /task ---
 

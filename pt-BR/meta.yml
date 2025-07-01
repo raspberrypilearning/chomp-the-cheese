@@ -21,7 +21,5 @@ steps:
   - 
     title: Lista de tarefas
     challenge: true
-  - 
-    title: Melhore o seu projeto
     completion:
       - external

@@ -21,7 +21,5 @@ steps:
   - 
     title: Πρόκληση
     challenge: true
-  - 
-    title: Τι μπορείς να κάνεις τώρα;
     completion:
       - external

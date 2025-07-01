@@ -17,6 +17,5 @@ steps:
       - internal
   - title: Desafio
     challenge: true
-  - title: O que se segue?
     completion:
       - externo

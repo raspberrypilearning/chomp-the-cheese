@@ -21,7 +21,5 @@ steps:
   - 
     title: Додаткове завдання
     challenge: true
-  - 
-    title: Що ти тепер вмієш?
     completion:
       - external

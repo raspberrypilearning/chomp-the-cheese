@@ -21,7 +21,5 @@ steps:
   - 
     title: Uitdaging
     challenge: true
-  - 
-    title: Wat kun je nu doen?
     completion:
       - external

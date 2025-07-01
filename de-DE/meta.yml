@@ -21,7 +21,5 @@ steps:
   - 
     title: Herausforderung
     challenge: true
-  - 
-    title: Wie geht es weiter?
     completion:
       - external

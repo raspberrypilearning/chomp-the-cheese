@@ -21,7 +21,5 @@ steps:
   - 
     title: Sfida
     challenge: true
-  - 
-    title: Cosa puoi fare adesso?
     completion:
       - external

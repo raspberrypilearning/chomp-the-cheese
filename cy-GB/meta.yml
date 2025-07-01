@@ -21,7 +21,5 @@ steps:
   - 
     title: Her
     challenge: true
-  - 
-    title: Beth allwch chi ei wneud nawr?
     completion:
       - external

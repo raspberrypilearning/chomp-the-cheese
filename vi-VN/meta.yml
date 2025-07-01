@@ -21,7 +21,5 @@ steps:
   - 
     title: Thử thách
     challenge: true
-  - 
-    title: Bạn có thể làm gì bây giờ?
     completion:
       - external

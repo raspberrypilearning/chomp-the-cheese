@@ -21,7 +21,5 @@ steps:
   - 
     title: チャレンジ
     challenge: true
-  - 
-    title: 次は何をしましょうか？
     completion:
       - external

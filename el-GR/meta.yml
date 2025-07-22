@@ -1,0 +1,21 @@
+---
+title: Δάγκωσε το τυρί
+hero_image: images/banner.png
+description: Φτιάξε ένα παιχνίδι αναγνώρισης προσώπου όπου πρέπει να φας τα τυρογαριδάκια που κυκλοφορούν γύρω σου
+version: 1
+listed: true
+copyedit: false
+last_tested: "2024-07-02"
+steps:
+  - title: Τι θα φτιάξεις
+  - title: Ρύθμιση του έργου
+    completion:
+      - engaged
+  - title: Μετακίνησε το τυρί
+  - title: Δάγκωσε το τυρί
+    completion:
+      - internal
+  - title: Πρόκληση
+    challenge: true
+    completion:
+      - external

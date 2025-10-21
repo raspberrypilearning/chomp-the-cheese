@@ -1,0 +1,21 @@
+---
+title: Chomp osten
+hero_image: images/banner.png
+description: Lav en ansigtsgenkendelse spil, hvor du er nødt til at spise cheesy pust, der bevæger sig rundt dig
+version: 1
+listed: true
+copyedit: false
+last_tested: "2024-07-02"
+steps:
+  - title: Hvad du vil lave
+  - title: Opsæt projektet
+    completion:
+    - engaged
+  - title: Flyt osten
+  - title: Chomp osten
+    completion:
+    - internal
+  - title: Udfordring
+    challenge: true
+    completion:
+    - external

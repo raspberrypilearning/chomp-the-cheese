@@ -1,0 +1,17 @@
+1
+00:00:04,760 --> 00:00:09,120
+Slet katten og tilføj din egen sprite.
+
+2
+00:00:09,120 --> 00:00:11,920
+Vi valgte de cheesy puffs!
+
+3
+00:00:11,920 --> 00:00:19,760
+Træk i kodeblokkene for at få osten
+til at bevæge sig tilfældigt rundt om skærmen.
+
+4
+00:00:19,760 --> 00:00:26,600
+Tryk på det grønne flag og se dem gå.
+

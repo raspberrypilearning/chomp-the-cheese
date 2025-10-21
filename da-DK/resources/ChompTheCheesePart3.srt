@@ -1,0 +1,8 @@
+1
+00:00:04,731 --> 00:00:09,291
+Brug en ansigtssensing blok til at opdage, når cheesy puffs røre munden.
+
+2
+00:00:09,624 --> 00:00:15,000
+Når de gør, skjule dem, vente en smule, så vis igen for at genstarte spillet.
+

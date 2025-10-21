@@ -1,0 +1,8 @@
+1
+00:00:05,880 --> 00:00:11,680
+Åbn Scratch Lab og klik på 'Ansigt sanser'.
+
+2
+00:00:11,680 --> 00:00:18,640
+Klik derefter på 'Prøv det ud'.
+

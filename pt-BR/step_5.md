@@ -1,22 +1,22 @@
-## Lista de tarefas
+## Desafio
 
 \--- challenge ---
 
 \--- task ---
 
-Play a sound when the cheesy puffs touch the player's mouth.
+Emita um som quando os cheesy puffs tocarem a boca do jogador.
 
 \--- /task ---
 
 \--- task ---
 
-Add a variable to keep track of how many cheesy puffs the player has eaten.
+Adicione uma variável para controlar quantos cheesy puffs o jogador comeu.
 
 \--- /task ---
 
 \--- task ---
 
-Add another sprite that the player should avoid eating!
+Adicione outro ator que o jogador deve evitar comer!
 
 \--- /task ---
 

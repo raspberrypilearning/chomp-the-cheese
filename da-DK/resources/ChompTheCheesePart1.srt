@@ -1,6 +1,6 @@
 1
 00:00:05,880 --> 00:00:11,680
-Åbn Scratch Lab og klik på 'Ansigt sanser'.
+Åbn Scratch Lab og klik på 'Face Sensing'.
 
 2
 00:00:11,680 --> 00:00:18,640

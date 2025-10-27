@@ -1,8 +1,8 @@
 1
 00:00:05,880 --> 00:00:11,680
-Abra o Scratch Lab e clique em "Face sensing".
+Abra o Scratch Lab e clique em "Detecção facial".
 
 2
 00:00:11,680 --> 00:00:18,640
-Em seguida, clique em "Try it out".
+Em seguida, clique em "Realizar".
 

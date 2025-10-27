@@ -12,13 +12,13 @@ Gør cheesy puffs bliver chomped når de rører spillerens munden!
 
 I koden for **Cheesy Puffs** sprite, tilføj en blok fra menuen `Ansigtssensing`{:class="block3extensions"} blokerer for at opdage, når spriten rører en munde:
 
-![En grøn 'når denne sprite rører en mund'-blok fra 'Ansigt Sensing' blokeringsmenuen.](images/touches-mouth.png)
+![En grøn 'når denne sprite rører en mund'-blok fra 'Face Sensing' blokeringsmenuen.](images/touches-mouth.png)
 
 \--- /task ---
 
 \--- task ---
 
-Tilføj nogle kodeblokke under `Ansigt Sensing`{:class="block3extensions"} blokken for at få cheesy pust til at forsvinde, når de rører ved en munde:
+Tilføj nogle kodeblokke under `Face Sensing`{:class="block3extensions"} blokken for at få cheesy pust til at forsvinde, når de rører ved en munde:
 
 ```blocks3
 hide

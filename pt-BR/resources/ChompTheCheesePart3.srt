@@ -1,0 +1,8 @@
+1
+00:00:04,731 --> 00:00:09,291
+Use um bloco de detecção facial para detectar quando os salgadinhos de queijo tocam sua boca.
+
+2
+00:00:09,624 --> 00:00:15,000
+Quando isso acontecer, esconda-os, espere um pouco e depois mostre-os novamente para reiniciar o jogo.
+

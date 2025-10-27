@@ -1,0 +1,17 @@
+1
+00:00:04,760 --> 00:00:09,120
+Exclua o gato e adicione seu próprio ator.
+
+2
+00:00:09,120 --> 00:00:11,920
+Nós escolhemos os salgadinhos de queijo!
+
+3
+00:00:11,920 --> 00:00:19,760
+Arraste os blocos de programação para fazer os salgadinhos 
+de queijo se moverem aleatoriamente pela tela.
+
+4
+00:00:19,760 --> 00:00:26,600
+Pressione a bandeira verde e observe-os se moverem.
+

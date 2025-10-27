@@ -1,4 +1,4 @@
-## Morda o queijo
+## Morda o salgadinho
 
 <html>
   <div style="position: relative; overflow: hidden; padding-top: 56.25%;">
@@ -6,19 +6,19 @@
   </div>
 </html>
 
-Faça os cheesy puffs serem mordidos quando tocarem a boca do jogador!
+Faça os salgadinhos de queijo serem mordidos quando tocarem a boca do jogador!
 
 \--- task ---
 
-No código do ator **Cheesy Puffs**, adicione um bloco do menu de blocos `Face Sensing`{:class="block3extensions"} para detectar quando o ator toca uma boca:
+No código do ator **Salgadinhos de Queijo**, adicione um bloco `Reconhecimento Facial`{:class="block3extensions"} do menu de blocos para detectar quando o ator tocar uma boca:
 
-![Um bloco verde 'quando este ator toca uma boca' do menu de blocos 'Face Sensing'.](images/touches-mouth.png)
+![Um bloco verde 'quando este ator tocar uma boca' do menu de blocos 'Reconhecimento Facial'.](images/touches-mouth.png)
 
 \--- /task ---
 
 \--- task ---
 
-Adicione alguns blocos de código sob o bloco `Face Sensing`{:class="block3extensions"} para fazer os cheesy puffs desaparecerem quando tocarem na boca:
+Adicione alguns blocos de código sob o bloco `Reconhecimento Facial`{:class="block3extensions"} para fazer os salgadinhos desaparecerem quando tocarem a boca:
 
 ```blocks3
 hide
@@ -30,7 +30,7 @@ show
 
 \--- task ---
 
-Clique na bandeira verde e divirta-se tentando pegar os cheesy puffs com a sua boca!
+Clique na bandeira verde e divirta-se tentando pegar os salgadinhos de queijo com a sua boca!
 
 \--- /task ---
 

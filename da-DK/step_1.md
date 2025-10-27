@@ -4,7 +4,7 @@ Brug ansigtsgenkendelse værktøjer i Scratch Lab til at gøre en ost chomping s
 
 Du skal bruge et **webcam** for at fuldføre dette projekt.
 
-![Et spil i Scratch med en flydende skål af ost puffer foran et webcam billede af en midaldrende kvinde med hendes mund åben. (images/whatyouwillmake.png)
+![Et spil i Scratch med en flydende skål af ost puffer foran et webcam billede af en midaldrende kvinde med hendes mund åben.](images/whatyouwillmake.png)
 
 ## --- collapse ---
 
@@ -19,6 +19,6 @@ Du skal bruge et **webcam** for at fuldføre dette projekt.
 
 ## title: Ingen YouTube? Download videoerne!
 
-Du kan [downloade alle videoer til dette projekt](https://rpf.io/p/en/chomp-the-cheese-go){:target="_blank"}.
+Du kan [downloade alle videoer til dette projekt](https://rpf.io/p/da-DK/chomp-the-cheese-go){:target="_blank"}.
 
 \--- /collapse ---

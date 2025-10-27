@@ -4,13 +4,13 @@
 
 \--- task ---
 
-Emita um som quando os cheesy puffs tocarem a boca do jogador.
+Toque um som quando os salgadinhos de queijo tocarem a boca do jogador.
 
 \--- /task ---
 
 \--- task ---
 
-Adicione uma variável para controlar quantos cheesy puffs o jogador comeu.
+Adicione uma variável para controlar quantos salgadinhos de queijo o jogador comeu.
 
 \--- /task ---
 

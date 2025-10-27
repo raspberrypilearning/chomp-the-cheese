@@ -12,7 +12,7 @@ Dette projekt bruger en særlig eksperimentel version af Scratch kaldet Scratch 
 
 Åbn [Scratch Lab](https://lab.scratch.mit.edu/){:target="_blank"}.
 
-Klik på **Ansigt Sensing**.
+Klik på **Face Sensing**.
 
 ![Scratch Lab hjemmeside med en pil, der peger på 'Face Sensing'.](images/facial-recognition.png)
 

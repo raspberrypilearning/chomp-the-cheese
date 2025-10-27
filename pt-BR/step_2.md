@@ -12,15 +12,15 @@ Este projeto usa uma versão experimental especial do Scratch chamada Scratch La
 
 Abra o [Scratch Lab](https://lab.scratch.mit.edu/){:target="_blank"}.
 
-Clique em **Face Sensing**.
+Clique em **Detecção Facial**.
 
-![O site do Scratch Lab com uma seta apontando para 'Face Sensing'.](images/facial-recognition.png)
+![O site do Scratch Lab com uma seta apontando para 'Detecção facial'.](images/facial-recognition.png)
 
 \--- /task ---
 
 \--- task ---
 
-Clique no botão **Try it out**.
+Clique no botão **Experimente**.
 
 \--- /task ---
 
@@ -32,6 +32,6 @@ Se for solicitado permissão para usar sua webcam, clique em **Permitir em todas
 
 \--- /task ---
 
-Agora você deve ver uma versão do Scratch com blocos especiais de `Face Sensing`{:class="block3extensions"}. A visualização da sua webcam também será exibida no Palco.
+Agora você deve ver uma versão do Scratch com blocos especiais de `Detecção Facial`{:class="block3extensions"}. A imagem da sua câmera também será exibida no Palco.
 
-![Uma versão do software Scratch com blocos verdes de 'Face Sensing'.](images/scratch-special.png)
+![Uma versão do software Scratch com blocos verdes de 'Detecção Facial'.](images/scratch-special.png)

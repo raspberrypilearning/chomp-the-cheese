@@ -1,6 +1,6 @@
 1
 00:00:04,731 --> 00:00:09,291
-Use um bloco de face sensing para detectar quando os cheesy puffs tocam sua boca.
+Use um bloco de detecção facial para detectar quando os salgadinhos de queijo tocam sua boca.
 
 2
 00:00:09,624 --> 00:00:15,000

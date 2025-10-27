@@ -1,4 +1,4 @@
-## Mova o queijo
+## Mova o salgadinho
 
 <html>
   <div style="position: relative; overflow: hidden; padding-top: 56.25%;">
@@ -6,17 +6,17 @@
   </div>
 </html>
 
-Faça seus cheesy puffs se moverem aleatoriamente pela tela.
+Faça seus salgadinhos de queijo se moverem aleatoriamente pela tela.
 
 \--- task ---
 
-Apague o ator **cat**.
+Apague o ator **gato**.
 
 \--- /task ---
 
 \--- task ---
 
-Adicione um novo ator. Você pode escolher um ator existente, enviar uma imagem, ou até mesmo pintar seu próprio ator! Nós escolhemos o ator **Cheesy Puffs**.
+Adicione um novo ator. Você pode escolher um ator existente, enviar uma imagem, ou até mesmo pintar seu próprio ator! Nós escolhemos o ator **Salgadinhos de Queijo**.
 
 ![O menu 'Escolha um Ator', com a opção 'Escolha um Ator' destacada.](images/choose-sprite.png)
 
@@ -24,7 +24,7 @@ Adicione um novo ator. Você pode escolher um ator existente, enviar uma imagem,
 
 \--- task ---
 
-Adicione algum código para fazer o ator se mover para posições aleatórias na tela:
+Adicione um código para fazer o ator se mover para posições aleatórias na tela:
 
 ```blocks3
 when flag clicked

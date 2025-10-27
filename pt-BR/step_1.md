@@ -1,6 +1,6 @@
 ## O que você vai fazer
 
-Use as ferramentas de reconhecimento facial do Scratch Lab para criar um jogo de morder queijo que você pode jogar com a boca!
+Use as ferramentas de reconhecimento facial do Scratch Lab para criar um jogo de comer salgadinho que você pode jogar com a boca!
 
 Você precisará de uma **webcam** para concluir este projeto.
 

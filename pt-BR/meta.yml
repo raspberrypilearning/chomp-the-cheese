@@ -1,0 +1,21 @@
+---
+title: Morda o salgadinho
+hero_image: images/banner.png
+description: Crie um jogo de reconhecimento facial onde você tem que comer salgadinhos de queijo que se movem ao seu redor
+version: 1
+listed: true
+copyedit: false
+last_tested: "2024-07-02"
+steps:
+  - title: O que você vai fazer
+  - title: Configurar o projeto
+    completion:
+    - engaged
+  - title: Mova o salgadinho
+  - title: Morda o salgadinho
+    completion:
+    - internal
+  - title: Desafio
+    challenge: true
+    completion:
+    - external

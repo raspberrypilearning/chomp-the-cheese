@@ -6,33 +6,36 @@
   </div>
 </html>
 
-
-This project uses a special experimental version of Scratch called Scratch Lab, which has some extra features.
+You will create a new Scratch project and turn on Face Sensing so Scratch can follow parts of your face using your webcam.
 
 --- task ---
 
-Open [Scratch Lab](https://lab.scratch.mit.edu/){:target="_blank"}. 
+Open [Scratch](https://scratch.mit.edu){:target="_blank"}.
 
-Click on **Face Sensing**.
+![Scratch Menu](images/create.png)
 
-![The Scratch Lab website with an arrow pointing to 'Face Sensing'.](images/facial-recognition.png)
+Click **Create** (top left).
 
 --- /task ---
 
 --- task ---
 
-Click the **Try it out** button.
+Add the Face Sensing extension:
+
+- In the bottom-left of the editor, click the **Extensions** button (purple puzzle piece)
+
+![Scratch Menu](images/extensions.png)
+
+- Click **Face Sensing**
+
+![Scratch Menu](images/FaceSensing.png)
 
 --- /task ---
 
 --- task ---
 
-If you are asked for permission to use your webcam, click on **Allow on every visit**.
-
-![A pop-up asking for permission to use the webcam, with an arrow pointing to 'Allow on every visit'.](images/allow-webcam.png)
+When your browser asks to use the camera, click **Allow**.
 
 --- /task ---
 
-You should now see a version of Scratch with special `Face Sensing`{:class="block3extensions"} blocks. The view from your webcam will also be displayed on the Stage.
-
-![A version of the Scratch software with green 'Face Sensing' blocks.](images/scratch-special.png)
+You should now see your webcam feed on the Stage, plus a set of Face Sensing blocks in the blocks menu.

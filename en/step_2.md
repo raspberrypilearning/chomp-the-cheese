@@ -11,11 +11,19 @@ This project uses a special experimental version of Scratch called Scratch Lab, 
 
 --- task ---
 
-Open [Scratch Lab](https://lab.scratch.mit.edu/){:target="_blank"}. 
+Open [Scratch](https://scratch.mit.edu/){:target="_blank"}. 
+
+In the bottom left corner of the screen, click on the Extensions button to add new kinds of blocks.
+
+![The Scratch website menu button for Extensions](images/extensions.png)
+
+--- /task ---
+
+--- task ---
 
 Click on **Face Sensing**.
 
-![The Scratch Lab website with an arrow pointing to 'Face Sensing'.](images/facial-recognition.png)
+![The Scratch website with an arrow pointing to 'Face Sensing'.](images/facial-recognition.png)
 
 --- /task ---
 

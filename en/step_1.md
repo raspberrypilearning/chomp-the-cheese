@@ -1,6 +1,6 @@
 ## What you will make
 
-Use the facial recognition tools in Scratch to make a cheese chomping game you play with your mouth! 
+Use Scratch's Face Sensing tools to make a cheese chomping game you play with your mouth!
 
 You will need a **webcam** to complete this project.
 
@@ -12,7 +12,7 @@ title: Where are my images stored?
 ---
 
 - This project uses a technology called 'machine learning'. Machine learning systems are trained using a large amount of data﻿. The machine learning system used in this project has already been trained using a large number of photos, and your images will not be used to train it.
-- No images from your webcam are sent to this website or any other website.
+- Face detection happens entirely on your device. Images from your webcam are not stored or sent to this website or any other website.
 
 
 --- /collapse ---
